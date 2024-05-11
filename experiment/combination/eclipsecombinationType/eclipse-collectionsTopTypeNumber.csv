@@ -1,0 +1,275 @@
+combination,number
+[Change Variable Type],16
+[Add Method Annotation],15
+[Extract Variable],12
+[Rename Method],8
+[Rename Variable],8
+[Add Class Annotation],7
+[Change Return Type],7
+[Inline Variable],6
+[Change Parameter Type],4
+[Extract Method],4
+[Add Attribute Annotation],4
+[Modify Method Annotation],3
+[Change Method Access Modifier],3
+[Replace Anonymous With Lambda],3
+[Remove Method Annotation],3
+[Extract And Move Method],2
+[Rename Parameter],2
+[Remove Class Modifier],1
+[Remove Variable Modifier],1
+[Rename Class],1
+[Move Class],1
+[Remove Parameter],1
+[Add Class Modifier],1
+[Move Method],1
+[Push Down Method],1
+[Remove Thrown Exception Type],1
+[Extract Interface],1
+[Change Attribute Type],1
+combination,number
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Change Return Type]",2
+"[Rename Variable, Change Variable Type]",2
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Add Class Annotation, Add Method Annotation]",2
+"[Change Parameter Type, Change Attribute Type]",2
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Variable Type, Inline Variable]",1
+combination,number
+"[Pull Up Method, Remove Method Annotation, Inline Variable]",1
+"[Add Parameter, Move Method, Remove Method Annotation]",1
+"[Rename Variable, Extract Variable, Change Variable Type]",1
+"[Change Return Type, Extract Variable, Change Variable Type]",1
+"[Rename Method, Change Method Access Modifier, Remove Method Annotation]",1
+"[Rename Variable, Extract Method, Change Attribute Type]",1
+"[Rename Variable, Extract Method, Inline Variable]",1
+"[Add Method Annotation, Change Parameter Type, Extract Variable]",1
+"[Modify Method Annotation, Rename Class, Inline Variable]",1
+"[Remove Attribute Annotation, Remove Method Annotation, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable, Extract Method]",1
+"[Add Method Annotation, Change Parameter Type, Change Return Type]",1
+"[Change Parameter Type, Change Return Type, Change Attribute Type]",1
+"[Change Parameter Type, Move Method, Rename Parameter]",1
+"[Move And Rename Method, Remove Method Annotation, Extract Method]",1
+"[Change Return Type, Change Variable Type, Extract Interface]",1
+"[Pull Up Method, Change Variable Type, Extract Interface]",1
+"[Rename Method, Extract Variable, Inline Variable]",1
+"[Rename Method, Change Variable Type, Change Attribute Type]",1
+"[Extract Method, Inline Variable, Rename Parameter]",1
+combination,number
+"[Change Parameter Type, Change Return Type, Change Variable Type, Change Attribute Type]",1
+"[Rename Method, Pull Up Method, Remove Method Annotation, Change Class Access Modifier]",1
+"[Add Method Annotation, Pull Up Method, Change Method Access Modifier, Add Method Modifier]",1
+"[Change Parameter Type, Rename Variable, Change Variable Type, Rename Parameter]",1
+"[Replace Anonymous With Lambda, Change Method Access Modifier, Rename Variable, Change Class Access Modifier]",1
+"[Pull Up Method, Change Attribute Access Modifier, Pull Up Attribute, Extract Superclass]",1
+"[Pull Up Method, Change Parameter Type, Change Return Type, Rename Parameter]",1
+"[Pull Up Method, Push Down Method, Move Method, Change Return Type]",1
+"[Remove Class Modifier, Change Method Access Modifier, Move Class, Change Class Access Modifier]",1
+"[Rename Method, Add Method Annotation, Pull Up Method, Change Variable Type]",1
+"[Change Parameter Type, Rename Variable, Inline Variable, Rename Parameter]",1
+combination,number
+"[Pull Up Method, Change Parameter Type, Move Method, Change Return Type, Remove Method Annotation]",1
+"[Change Parameter Type, Change Attribute Access Modifier, Change Return Type, Pull Up Attribute, Extract Class]",1
+combination,number
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Add Method Annotation, Change Return Type]",2
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Variable, Change Variable Type]",2
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Class Annotation, Add Method Annotation]",2
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Parameter Type, Change Attribute Type]",2
+"[Change Variable Type, Inline Variable]",1
+combination,number
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Add Method Annotation, Change Return Type]",2
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Variable, Change Variable Type]",2
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Class Annotation, Add Method Annotation]",2
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Parameter Type, Change Attribute Type]",2
+"[Change Variable Type, Inline Variable]",1
+combination,number
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Add Method Annotation, Change Return Type]",2
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Variable, Change Variable Type]",2
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Class Annotation, Add Method Annotation]",2
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Parameter Type, Change Attribute Type]",2
+"[Change Variable Type, Inline Variable]",1
+combination,number
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Add Method Annotation, Change Return Type]",2
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Variable, Change Variable Type]",2
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Class Annotation, Add Method Annotation]",2
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Parameter Type, Change Attribute Type]",2
+"[Change Variable Type, Inline Variable]",1
+combination,number
+"[Move Class, Merge Package]",1
+"[Pull Up Method, Change Return Type]",1
+"[Change Attribute Access Modifier, Remove Method Modifier]",1
+"[Add Method Annotation, Change Parameter Type]",1
+"[Replace Anonymous With Lambda, Move Method]",1
+"[Remove Parameter Modifier, Remove Variable Modifier]",1
+"[Move Method, Remove Method Annotation]",1
+"[Change Type Declaration Kind, Extract Method]",4
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Extract Method, Change Attribute Type]",1
+"[Add Method Annotation, Change Return Type]",2
+"[Extract Variable, Change Variable Type]",1
+"[Modify Method Annotation, Extract Interface]",1
+"[Change Parameter Type, Inline Variable]",1
+"[Move Method, Extract Class]",1
+"[Extract Variable, Extract Method]",1
+"[Pull Up Method, Rename Parameter]",1
+"[Add Class Annotation, Rename Parameter]",1
+"[Rename Variable, Change Variable Type]",2
+"[Rename Method, Change Method Access Modifier]",1
+"[Rename Method, Change Variable Type]",1
+"[Remove Class Modifier, Change Type Declaration Kind]",1
+"[Push Down Method, Change Return Type]",1
+"[Change Parameter Type, Change Variable Type]",2
+"[Change Attribute Access Modifier, Remove Attribute Annotation]",2
+"[Replace Anonymous With Lambda, Inline Variable]",1
+"[Add Parameter Modifier, Extract Variable]",1
+"[Pull Up Method, Remove Method Annotation]",1
+"[Change Parameter Type, Rename Variable]",1
+"[Add Class Annotation, Add Method Annotation]",2
+"[Add Method Annotation, Extract And Move Method]",1
+"[Add Method Annotation, Rename Method]",1
+"[Change Parameter Type, Change Attribute Type]",2
+"[Change Variable Type, Inline Variable]",1

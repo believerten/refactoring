@@ -1,0 +1,22 @@
+buginducingRefactory,number
+Remove Class Modifier,2
+Change Parameter Type,2
+Add Method Modifier,3
+Add Parameter Modifier,30
+Move Class,2
+Remove Parameter,3
+Change Variable Type,7
+Extract Variable,3
+Add Variable Modifier,1
+Change Attribute Access Modifier,3
+Add Parameter,2
+Change Method Access Modifier,1
+Add Attribute Modifier,8
+Change Return Type,2
+Replace Variable With Attribute,4
+Rename Attribute,2
+Remove Attribute Modifier,1
+Change Class Access Modifier,2
+Change Attribute Type,6
+Add Class Modifier,14
+Rename Parameter,1

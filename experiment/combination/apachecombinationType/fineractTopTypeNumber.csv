@@ -1,0 +1,1988 @@
+combination,number
+[Add Parameter],252
+[Extract Variable],55
+[Add Method Annotation],48
+[Add Class Annotation],44
+[Modify Method Annotation],39
+[Rename Method],29
+[Change Variable Type],27
+[Remove Variable Modifier],27
+[Rename Variable],26
+[Remove Parameter],26
+[Modify Attribute Annotation],24
+[Encapsulate Attribute],23
+[Extract Method],23
+[Change Method Access Modifier],19
+[Remove Class Annotation],19
+[Change Attribute Type],17
+[Rename Parameter],16
+[Remove Method Annotation],14
+[Add Variable Modifier],14
+[Add Parameter Modifier],13
+[Change Return Type],13
+[Add Attribute Annotation],11
+[Add Attribute Modifier],10
+[Modify Class Annotation],10
+[Move Class],9
+[Rename Attribute],9
+[Add Parameter Annotation],9
+[Remove Attribute Annotation],9
+[Change Parameter Type],8
+[Inline Variable],7
+[Parameterize Variable],7
+[Move Source Folder],5
+[Inline Method],5
+[Add Thrown Exception Type],4
+[Add Class Modifier],4
+[Remove Thrown Exception Type],4
+[Remove Parameter Modifier],3
+[Modify Parameter Annotation],3
+[Reorder Parameter],3
+[Extract And Move Method],3
+[Rename Class],3
+[Remove Attribute Modifier],3
+[Move Method],3
+[Change Attribute Access Modifier],2
+[Localize Parameter],1
+[Replace Attribute With Variable],1
+[Replace Variable With Attribute],1
+[Remove Method Modifier],1
+[Extract Superclass],1
+[Change Thrown Exception Type],1
+[Add Variable Annotation],1
+[Move And Inline Method],1
+combination,number
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Add Parameter, Encapsulate Attribute]",33
+"[Add Parameter, Remove Variable Modifier]",18
+"[Add Parameter, Extract Variable]",12
+"[Add Parameter, Remove Parameter]",9
+"[Rename Method, Add Parameter]",9
+"[Add Parameter, Extract Method]",9
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Change Variable Type]",7
+"[Add Parameter, Rename Variable]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Class Annotation, Add Parameter]",6
+"[Modify Method Annotation, Add Parameter]",6
+"[Extract Variable, Extract Method]",6
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Add Parameter, Rename Parameter]",5
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Modify Class Annotation]",4
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Add Parameter Modifier]",4
+"[Reorder Parameter, Add Parameter]",4
+"[Rename Variable, Remove Variable Modifier]",4
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Localize Parameter, Add Parameter]",3
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Class Annotation, Extract Method]",3
+"[Rename Attribute, Change Attribute Type]",3
+"[Add Variable Modifier, Extract Method]",3
+"[Add Parameter, Change Method Access Modifier]",3
+"[Rename Method, Extract Method]",3
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Add Attribute Annotation]",3
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Extract Variable, Change Variable Type]",2
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Method, Add Parameter Modifier]",2
+"[Rename Variable, Remove Method Annotation]",2
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Attribute Type, Extract Method]",2
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Rename Variable]",2
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Rename Method]",2
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Extract Method, Rename Parameter]",2
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Add Variable Modifier, Add Parameter]",2
+"[Add Parameter, Add Attribute Modifier]",2
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Add Method Annotation, Move Method]",2
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Change Variable Type]",2
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Add Variable Modifier, Rename Variable]",2
+"[Rename Method, Extract Variable]",2
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Change Parameter Type, Change Variable Type]",2
+"[Remove Parameter, Inline Variable]",2
+"[Rename Method, Remove Variable Modifier]",2
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Parameter, Parameterize Variable]",2
+"[Change Method Access Modifier, Change Return Type]",2
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Move Package, Move Class]",2
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Rename Method, Rename Parameter]",1
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Rename Method, Change Attribute Type]",1
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Add Parameter, Split Parameter]",1
+"[Rename Method, Add Attribute Modifier]",1
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Rename Method, Parameterize Attribute]",1
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Move Method, Remove Method Annotation]",1
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Attribute, Rename Parameter]",1
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Change Variable Type, Modify Class Annotation]",1
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Rename Variable, Inline Variable]",1
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Move Class, Extract Method]",1
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Attribute, Split Attribute]",1
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1
+combination,number
+"[Add Class Annotation, Remove Method Annotation, Remove Class Annotation]",7
+"[Add Parameter, Remove Variable Modifier, Encapsulate Attribute]",7
+"[Add Parameter, Encapsulate Attribute, Extract Method]",6
+"[Change Parameter Type, Change Return Type, Change Attribute Type]",4
+"[Add Class Annotation, Remove Attribute Modifier, Remove Class Annotation]",4
+"[Add Variable Modifier, Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Remove Attribute Annotation, Encapsulate Attribute]",4
+"[Modify Parameter Annotation, Modify Method Annotation, Rename Parameter]",4
+"[Add Parameter, Change Method Access Modifier, Encapsulate Attribute]",4
+"[Add Parameter, Extract Variable, Extract Method]",3
+"[Add Parameter, Remove Parameter, Rename Parameter]",3
+"[Add Parameter, Remove Variable Modifier, Extract Variable]",3
+"[Rename Variable, Rename Attribute, Rename Parameter]",3
+"[Add Parameter, Encapsulate Attribute, Remove Attribute Modifier]",3
+"[Add Method Annotation, Remove Parameter, Remove Method Annotation]",3
+"[Add Variable Modifier, Remove Attribute Annotation, Add Parameter Modifier]",3
+"[Add Parameter, Encapsulate Attribute, Rename Parameter]",2
+"[Remove Variable Modifier, Extract Variable, Inline Variable]",2
+"[Add Parameter, Rename Variable, Remove Variable Modifier]",2
+"[Add Parameter, Change Method Access Modifier, Remove Parameter]",2
+"[Add Attribute Modifier, Remove Attribute Annotation, Add Attribute Annotation]",2
+"[Add Class Annotation, Rename Class, Modify Class Annotation]",2
+"[Rename Method, Remove Attribute Annotation, Add Parameter Modifier]",2
+"[Add Parameter, Extract Method, Rename Parameter]",2
+"[Change Parameter Type, Change Return Type, Change Variable Type]",2
+"[Add Class Annotation, Remove Attribute Annotation, Remove Class Annotation]",2
+"[Add Class Annotation, Remove Class Modifier, Remove Attribute Modifier]",2
+"[Add Parameter, Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Parameter, Rename Variable, Add Parameter Modifier]",2
+"[Localize Parameter, Add Parameter, Extract Method]",2
+"[Rename Variable, Remove Variable Modifier, Change Variable Type]",2
+"[Add Parameter, Move Method, Extract Class]",2
+"[Rename Method, Add Parameter, Remove Variable Modifier]",2
+"[Rename Method, Add Variable Modifier, Rename Variable]",2
+"[Rename Variable, Change Return Type, Change Variable Type]",2
+"[Modify Method Annotation, Add Parameter, Add Parameter Modifier]",2
+"[Add Class Annotation, Move And Inline Method, Remove Attribute Modifier]",2
+"[Move Package, Move Class, Merge Package]",2
+"[Add Parameter, Rename Variable, Remove Attribute Annotation]",2
+"[Add Parameter, Remove Parameter, Add Attribute Annotation]",1
+"[Rename Method, Modify Attribute Annotation, Rename Attribute]",1
+"[Add Method Annotation, Change Variable Type, Change Attribute Type]",1
+"[Rename Variable, Parameterize Variable, Extract Method]",1
+"[Add Method Annotation, Move Method, Remove Method Annotation]",1
+"[Rename Method, Rename Variable, Change Return Type]",1
+"[Add Class Annotation, Remove Attribute Modifier, Add Class Modifier]",1
+"[Rename Method, Add Parameter Modifier, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Modifier, Remove Class Annotation]",1
+"[Modify Attribute Annotation, Remove Attribute Annotation, Add Attribute Annotation]",1
+"[Extract Variable, Modify Class Annotation, Rename Parameter]",1
+"[Pull Up Method, Remove Method Annotation, Extract Interface]",1
+"[Add Parameter, Parameterize Variable, Extract Method]",1
+"[Add Parameter, Add Parameter Modifier, Change Variable Type]",1
+"[Add Parameter, Parameterize Variable, Remove Method Annotation]",1
+"[Add Parameter, Rename Variable, Split Variable]",1
+"[Localize Parameter, Merge Parameter, Extract Variable]",1
+"[Change Method Access Modifier, Rename Variable, Remove Method Annotation]",1
+"[Add Parameter, Change Method Access Modifier, Remove Variable Modifier]",1
+"[Add Parameter, Remove Parameter Annotation, Remove Variable Modifier]",1
+"[Move Method, Extract Class, Move Attribute]",1
+"[Rename Variable, Extract Variable, Extract Method]",1
+"[Change Variable Type, Extract Method, Inline Variable]",1
+"[Rename Variable, Encapsulate Attribute, Change Variable Type]",1
+"[Add Variable Modifier, Move And Rename Class, Remove Parameter]",1
+"[Rename Method, Rename Variable, Change Variable Type]",1
+"[Add Class Annotation, Add Parameter, Rename Variable]",1
+"[Change Parameter Type, Add Parameter, Move Class]",1
+"[Add Parameter, Split Variable, Extract And Move Method]",1
+"[Remove Parameter Modifier, Add Parameter, Remove Variable Modifier]",1
+"[Move Method, Extract Class, Change Attribute Type]",1
+"[Add Parameter, Add Attribute Modifier, Remove Method Annotation]",1
+"[Add Parameter, Extract Method, Extract And Move Method]",1
+"[Add Class Annotation, Change Class Access Modifier, Remove Class Annotation]",1
+"[Change Variable Type, Add Thrown Exception Type, Rename Parameter]",1
+"[Move Package, Remove Attribute Annotation, Move Class]",1
+"[Change Method Access Modifier, Rename Variable, Rename Attribute]",1
+"[Change Parameter Type, Extract Method, Rename Parameter]",1
+"[Remove Variable Modifier, Extract Variable, Extract Method]",1
+"[Change Return Type, Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Encapsulate Attribute, Remove Attribute Modifier]",1
+"[Rename Method, Change Return Type, Extract And Move Method]",1
+"[Add Parameter, Extract Variable, Extract And Move Method]",1
+"[Add Class Annotation, Change Attribute Access Modifier, Add Class Modifier]",1
+"[Add Method Annotation, Remove Attribute Annotation, Add Attribute Annotation]",1
+"[Add Class Annotation, Add Parameter, Move Method]",1
+"[Move Method, Extract Class, Remove Parameter]",1
+"[Remove Attribute Annotation, Encapsulate Attribute, Extract Method]",1
+"[Add Method Annotation, Add Parameter Annotation, Add Attribute Annotation]",1
+"[Add Parameter, Remove Parameter, Remove Class Annotation]",1
+"[Rename Method, Change Attribute Access Modifier, Modify Class Annotation]",1
+"[Add Class Annotation, Add Parameter, Add Attribute Annotation]",1
+"[Modify Attribute Annotation, Remove Attribute Annotation, Change Return Type]",1
+"[Add Parameter, Encapsulate Attribute, Change Variable Type]",1
+"[Rename Variable, Change Return Type, Rename Class]",1
+"[Change Parameter Type, Add Parameter, Change Attribute Type]",1
+"[Change Method Access Modifier, Add Parameter Modifier, Rename Parameter]",1
+"[Add Variable Modifier, Rename Variable, Change Variable Type]",1
+"[Change Attribute Access Modifier, Add Parameter, Change Method Access Modifier]",1
+"[Add Parameter, Rename Attribute, Encapsulate Attribute]",1
+"[Add Parameter, Remove Attribute Annotation, Extract Variable]",1
+"[Split Class, Rename Attribute, Change Attribute Type]",1
+"[Add Parameter, Modify Attribute Annotation, Modify Class Annotation]",1
+"[Add Parameter Modifier, Extract Class, Move Attribute]",1
+"[Change Parameter Type, Change Variable Type, Change Attribute Type]",1
+"[Add Parameter, Parameterize Variable, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Class Annotation, Encapsulate Attribute]",1
+"[Add Parameter, Inline Method, Extract And Move Method]",1
+"[Add Class Annotation, Add Parameter, Add Thrown Exception Type]",1
+"[Add Method Annotation, Add Parameter Annotation, Rename Parameter]",1
+"[Change Method Access Modifier, Move Class, Extract Method]",1
+"[Rename Class, Extract Class, Change Variable Type]",1
+"[Rename Method, Modify Method Annotation, Add Parameter]",1
+"[Rename Variable, Change Variable Type, Extract Method]",1
+"[Add Class Annotation, Add Parameter, Extract Method]",1
+"[Modify Attribute Annotation, Rename Variable, Extract Variable]",1
+"[Add Parameter, Change Attribute Access Modifier, Remove Attribute Modifier]",1
+"[Pull Up Method, Change Method Access Modifier, Remove Method Modifier]",1
+"[Rename Method, Add Parameter, Change Return Type]",1
+"[Add Variable Modifier, Rename Variable, Extract Variable]",1
+"[Change Attribute Access Modifier, Change Parameter Type, Rename Parameter]",1
+"[Rename Method, Add Parameter, Encapsulate Attribute]",1
+"[Rename Method, Remove Thrown Exception Type, Extract Method]",1
+"[Add Parameter, Remove Attribute Annotation, Remove Variable Modifier]",1
+"[Change Parameter Type, Rename Variable, Change Variable Type]",1
+"[Add Attribute Modifier, Rename Attribute, Rename Parameter]",1
+"[Add Variable Modifier, Add Parameter, Extract Method]",1
+"[Rename Attribute, Change Attribute Type, Remove Variable Annotation]",1
+"[Add Variable Modifier, Add Attribute Modifier, Add Parameter Modifier]",1
+"[Add Parameter Annotation, Add Parameter Modifier, Remove Class Annotation]",1
+"[Rename Method, Change Return Type, Change Variable Type]",1
+"[Add Class Annotation, Rename Attribute, Extract Variable]",1
+"[Add Parameter, Inline Method, Change Return Type]",1
+"[Rename Method, Remove Parameter Modifier, Add Parameter]",1
+"[Move And Inline Method, Extract Attribute, Extract And Move Method]",1
+"[Modify Method Annotation, Add Parameter, Change Return Type]",1
+"[Add Class Annotation, Add Parameter, Change Attribute Type]",1
+"[Modify Attribute Annotation, Remove Parameter, Encapsulate Attribute]",1
+"[Rename Variable, Add Parameter Modifier, Remove Parameter]",1
+"[Change Return Type, Parameterize Variable, Change Variable Type]",1
+"[Add Parameter, Extract Variable, Rename Parameter]",1
+"[Add Parameter, Add Attribute Modifier, Add Parameter Modifier]",1
+"[Rename Method, Add Variable Modifier, Add Parameter]",1
+"[Rename Method, Rename Variable, Extract Variable]",1
+"[Add Parameter, Change Parameter Type, Rename Parameter]",1
+"[Rename Package, Move Source Folder, Move Class]",1
+"[Add Parameter, Remove Method Annotation, Change Variable Type]",1
+"[Rename Method, Change Variable Type, Extract Method]",1
+"[Add Class Annotation, Remove Attribute Annotation, Remove Attribute Modifier]",1
+"[Add Parameter, Change Return Type, Extract Method]",1
+"[Add Parameter, Move Method, Extract Variable]",1
+"[Add Parameter, Remove Method Annotation, Modify Class Annotation]",1
+"[Remove Attribute Annotation, Add Parameter Modifier, Remove Parameter]",1
+"[Modify Attribute Annotation, Rename Class, Change Attribute Type]",1
+"[Rename Method, Rename Attribute, Rename Parameter]",1
+"[Rename Class, Extract Method, Change Attribute Type]",1
+"[Move Method, Add Parameter Modifier, Inline Variable]",1
+"[Change Method Access Modifier, Rename Variable, Change Variable Type]",1
+"[Rename Package, Move Class, Extract Variable]",1
+"[Add Parameter, Rename Class, Change Variable Type]",1
+"[Rename Method, Add Parameter, Remove Class Annotation]",1
+"[Change Method Access Modifier, Add Parameter Modifier, Parameterize Variable]",1
+"[Add Attribute Modifier, Encapsulate Attribute, Extract Method]",1
+"[Add Parameter, Move Source Folder, Modify Class Annotation]",1
+"[Add Class Annotation, Add Variable Modifier, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Parameter, Remove Method Annotation]",1
+"[Change Parameter Type, Change Return Type, Rename Class]",1
+"[Add Parameter, Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Parameter, Add Attribute Modifier]",1
+"[Change Parameter Type, Remove Class Annotation, Rename Parameter]",1
+"[Modify Parameter Annotation, Remove Parameter, Rename Parameter]",1
+"[Remove Parameter Modifier, Add Parameter, Modify Class Annotation]",1
+"[Rename Variable, Rename Attribute, Change Attribute Type]",1
+"[Add Method Annotation, Add Class Annotation, Add Parameter]",1
+"[Add Class Annotation, Rename Method, Modify Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter Modifier, Remove Parameter]",1
+"[Add Parameter, Remove Variable Modifier, Remove Method Modifier]",1
+"[Encapsulate Attribute, Change Variable Type, Change Attribute Type]",1
+"[Add Parameter, Replace Variable With Attribute, Encapsulate Attribute]",1
+"[Add Parameter, Rename Variable, Change Method Access Modifier]",1
+"[Add Parameter, Add Parameter Modifier, Remove Attribute Modifier]",1
+"[Extract Variable, Extract Method, Rename Parameter]",1
+"[Rename Method, Add Parameter, Rename Parameter]",1
+"[Add Parameter, Change Return Type, Remove Parameter]",1
+"[Add Variable Modifier, Add Parameter, Encapsulate Attribute]",1
+"[Change Parameter Type, Move And Rename Class, Change Attribute Type]",1
+"[Remove Parameter Modifier, Remove Parameter Annotation, Rename Variable]",1
+"[Modify Method Annotation, Add Variable Modifier, Change Variable Type]",1
+"[Rename Method, Rename Variable, Remove Parameter]",1
+"[Rename Method, Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier, Change Attribute Type]",1
+"[Modify Method Annotation, Add Parameter, Encapsulate Attribute]",1
+"[Add Parameter, Rename Variable, Encapsulate Attribute]",1
+"[Add Parameter Modifier, Remove Parameter, Add Attribute Annotation]",1
+"[Add Class Annotation, Add Method Annotation, Remove Class Annotation]",1
+"[Change Parameter Type, Add Parameter Modifier, Rename Parameter]",1
+"[Add Parameter, Remove Attribute Annotation, Extract Method]",1
+"[Add Parameter, Change Return Type, Extract Variable]",1
+"[Rename Class, Add Parameter Modifier, Remove Method Annotation]",1
+"[Rename Method, Add Variable Modifier, Encapsulate Attribute]",1
+"[Rename Method, Extract Method, Inline Variable]",1
+"[Remove Parameter, Extract Variable, Change Variable Type]",1
+"[Add Variable Modifier, Modify Attribute Annotation, Rename Variable]",1
+"[Add Parameter, Remove Parameter, Encapsulate Attribute]",1
+"[Rename Method, Move Class, Extract Method]",1
+"[Add Parameter Annotation, Add Variable Modifier, Add Parameter Modifier]",1
+"[Add Parameter, Change Variable Type, Extract Method]",1
+"[Add Parameter, Rename Class, Encapsulate Attribute]",1
+"[Rename Variable, Remove Parameter, Rename Parameter]",1
+"[Change Parameter Type, Remove Parameter Annotation, Rename Parameter]",1
+"[Parameterize Attribute, Add Parameter, Extract Variable]",1
+"[Add Parameter, Remove Parameter Annotation, Encapsulate Attribute]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Merge Parameter, Parameterize Variable]",1
+"[Add Class Annotation, Add Parameter, Extract Variable]",1
+"[Change Return Type, Add Method Modifier, Rename Class]",1
+"[Add Variable Modifier, Add Parameter, Extract And Move Method]",1
+"[Change Parameter Type, Change Attribute Type, Extract Method]",1
+"[Add Parameter, Remove Variable Modifier, Extract Method]",1
+"[Add Class Annotation, Rename Method, Change Attribute Type]",1
+"[Extract Variable, Extract Method, Add Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Variable, Extract Method]",1
+"[Rename Method, Remove Class Modifier, Encapsulate Attribute]",1
+"[Remove Variable Modifier, Rename Attribute, Rename Parameter]",1
+"[Add Parameter, Rename Attribute, Rename Parameter]",1
+"[Rename Method, Add Class Annotation, Change Method Access Modifier]",1
+"[Add Method Annotation, Modify Method Annotation, Add Parameter]",1
+"[Remove Parameter Modifier, Change Method Access Modifier, Move Attribute]",1
+combination,number
+"[Change Parameter Type, Change Return Type, Change Variable Type, Change Attribute Type]",6
+"[Rename Method, Rename Variable, Rename Attribute, Rename Parameter]",4
+"[Change Parameter Type, Rename Variable, Change Variable Type, Rename Parameter]",3
+"[Rename Method, Rename Variable, Remove Variable Modifier, Extract Method]",3
+"[Change Parameter Type, Add Parameter, Change Variable Type, Change Attribute Type]",3
+"[Add Parameter, Rename Variable, Add Parameter Modifier, Rename Parameter]",2
+"[Modify Parameter Annotation, Modify Method Annotation, Add Parameter, Rename Parameter]",2
+"[Change Parameter Type, Change Return Type, Encapsulate Attribute, Change Attribute Type]",2
+"[Rename Method, Change Parameter Type, Change Return Type, Change Variable Type]",2
+"[Add Variable Modifier, Rename Variable, Extract Variable, Rename Parameter]",2
+"[Inline Method, Rename Variable, Remove Parameter, Rename Parameter]",2
+"[Add Parameter, Rename Variable, Change Method Access Modifier, Add Method Modifier]",2
+"[Modify Attribute Annotation, Add Parameter, Remove Variable Modifier, Encapsulate Attribute]",2
+"[Rename Method, Add Parameter, Rename Variable, Extract Method]",2
+"[Add Method Annotation, Add Variable Modifier, Add Parameter, Inline Method]",2
+"[Change Return Type, Remove Parameter, Change Variable Type, Inline Variable]",2
+"[Add Method Annotation, Modify Method Annotation, Remove Method Annotation, Encapsulate Attribute]",1
+"[Add Parameter, Remove Attribute Annotation, Remove Variable Modifier, Remove Method Annotation]",1
+"[Rename Method, Modify Parameter Annotation, Add Parameter, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier, Move Method, Change Variable Type]",1
+"[Add Parameter, Rename Variable, Change Thrown Exception Type, Extract Method]",1
+"[Change Parameter Type, Add Attribute Modifier, Change Return Type, Change Attribute Type]",1
+"[Add Parameter Annotation, Rename Variable, Remove Method Annotation, Change Variable Type]",1
+"[Rename Method, Localize Parameter, Remove Attribute Annotation, Remove Parameter]",1
+"[Add Parameter, Split Parameter, Split Attribute, Rename Parameter]",1
+"[Add Parameter, Rename Variable, Parameterize Variable, Add Attribute Annotation]",1
+"[Add Parameter, Remove Attribute Annotation, Add Parameter Modifier, Move Attribute]",1
+"[Add Parameter, Change Method Access Modifier, Remove Parameter, Extract Method]",1
+"[Add Parameter, Remove Variable Modifier, Encapsulate Attribute, Extract Method]",1
+"[Add Method Annotation, Remove Parameter, Add Attribute Annotation, Extract Variable]",1
+"[Add Class Annotation, Add Parameter, Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Localize Parameter, Add Parameter, Remove Parameter Annotation, Change Variable Type]",1
+"[Change Method Access Modifier, Move Method, Rename Attribute, Change Attribute Type]",1
+"[Change Parameter Type, Change Return Type, Extract Variable, Change Variable Type]",1
+"[Remove Attribute Annotation, Add Parameter Modifier, Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Remove Parameter, Rename Attribute, Change Attribute Type]",1
+"[Add Parameter, Change Attribute Access Modifier, Change Variable Type, Extract Method]",1
+"[Add Class Annotation, Rename Variable, Change Variable Type, Extract Variable]",1
+"[Move And Inline Method, Add Parameter, Add Attribute Modifier, Add Class Modifier]",1
+"[Add Parameter, Remove Parameter, Encapsulate Attribute, Extract Method]",1
+"[Rename Method, Add Parameter Modifier, Remove Parameter, Merge Parameter]",1
+"[Add Parameter, Rename Variable, Change Variable Type, Remove Class Annotation]",1
+"[Modify Method Annotation, Add Parameter, Remove Variable Modifier, Extract Variable]",1
+"[Add Class Annotation, Change Parameter Type, Rename Class, Change Attribute Type]",1
+"[Add Variable Modifier, Rename Variable, Extract Variable, Change Variable Type]",1
+"[Rename Method, Add Parameter, Change Method Access Modifier, Remove Method Annotation]",1
+"[Change Parameter Type, Change Attribute Access Modifier, Pull Up Attribute, Remove Attribute Modifier]",1
+"[Add Method Annotation, Remove Attribute Annotation, Add Attribute Annotation, Add Variable Annotation]",1
+"[Remove Parameter Annotation, Remove Parameter, Remove Thrown Exception Type, Remove Method Annotation]",1
+"[Add Method Annotation, Add Parameter, Rename Class, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter, Remove Method Annotation, Extract Method]",1
+"[Rename Method, Add Class Annotation, Change Method Access Modifier, Extract Attribute]",1
+"[Add Variable Modifier, Remove Attribute Annotation, Add Parameter Modifier, Modify Class Annotation]",1
+"[Add Method Annotation, Add Parameter, Remove Parameter, Encapsulate Attribute]",1
+"[Add Class Annotation, Change Attribute Type, Extract Method, Split Attribute]",1
+"[Change Parameter Type, Change Return Type, Rename Attribute, Change Attribute Type]",1
+"[Add Class Annotation, Add Attribute Modifier, Remove Attribute Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Add Parameter, Change Return Type, Extract Method]",1
+"[Rename Method, Change Parameter Type, Remove Parameter, Modify Class Annotation]",1
+"[Change Return Type, Remove Method Annotation, Extract Method, Inline Variable]",1
+"[Add Parameter, Change Parameter Type, Modify Attribute Annotation, Rename Parameter]",1
+"[Add Class Annotation, Add Parameter, Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Remove Parameter Modifier, Move Method, Move Class, Remove Class Annotation]",1
+"[Rename Variable, Remove Variable Modifier, Extract Variable, Change Variable Type]",1
+"[Remove Variable Modifier, Replace Attribute With Variable, Replace Variable With Attribute, Extract Variable]",1
+"[Rename Method, Change Parameter Type, Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Parameter, Remove Parameter Annotation, Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Parameter, Change Parameter Type, Remove Parameter, Remove Class Annotation]",1
+"[Add Variable Modifier, Add Parameter, Add Parameter Modifier, Remove Variable Modifier]",1
+"[Add Class Annotation, Remove Class Modifier, Remove Attribute Modifier, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier, Encapsulate Attribute, Remove Attribute Modifier]",1
+"[Add Method Annotation, Move Method, Change Method Access Modifier, Extract Class]",1
+"[Add Parameter, Remove Parameter, Extract Variable, Rename Parameter]",1
+"[Add Parameter, Modify Attribute Annotation, Remove Variable Modifier, Extract Variable]",1
+"[Add Variable Modifier, Rename Variable, Extract Variable, Extract Method]",1
+"[Add Class Annotation, Remove Parameter Annotation, Remove Variable Annotation, Rename Parameter]",1
+"[Rename Method, Add Parameter, Add Attribute Annotation, Extract Method]",1
+"[Remove Variable Modifier, Remove Parameter, Extract Method, Rename Parameter]",1
+"[Localize Parameter, Rename Variable, Parameterize Variable, Extract Method]",1
+"[Rename Method, Change Attribute Access Modifier, Add Parameter, Rename Attribute]",1
+"[Add Parameter, Change Method Access Modifier, Rename Variable, Remove Parameter]",1
+"[Add Variable Modifier, Add Parameter, Move Attribute, Remove Parameter]",1
+"[Add Method Annotation, Modify Method Annotation, Modify Class Annotation, Extract Method]",1
+"[Rename Variable, Remove Parameter, Encapsulate Attribute, Change Variable Type]",1
+"[Add Parameter, Remove Parameter Annotation, Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Rename Variable, Change Return Type, Change Variable Type, Change Attribute Type]",1
+"[Rename Method, Modify Method Annotation, Modify Attribute Annotation, Change Method Access Modifier]",1
+"[Parameterize Attribute, Rename Variable, Change Variable Type, Extract Method]",1
+"[Add Method Annotation, Change Return Type, Remove Parameter, Extract Variable]",1
+"[Add Class Annotation, Rename Method, Add Method Annotation, Remove Attribute Modifier]",1
+"[Modify Parameter Annotation, Modify Method Annotation, Remove Parameter, Rename Parameter]",1
+"[Localize Parameter, Change Parameter Type, Change Method Access Modifier, Remove Parameter]",1
+"[Add Class Annotation, Change Parameter Type, Remove Variable Modifier, Merge Variable]",1
+"[Add Parameter, Encapsulate Attribute, Extract Variable, Rename Parameter]",1
+"[Rename Method, Remove Parameter, Replace Variable With Attribute, Remove Method Modifier]",1
+"[Rename Variable, Rename Class, Extract Method, Inline Variable]",1
+"[Add Method Annotation, Add Parameter, Change Method Access Modifier, Extract Variable]",1
+"[Move Method, Move Class, Remove Parameter, Remove Class Annotation]",1
+"[Add Variable Modifier, Add Parameter, Rename Variable, Add Parameter Modifier]",1
+"[Add Class Annotation, Add Parameter Annotation, Remove Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier, Move Attribute, Remove Attribute Modifier]",1
+"[Rename Method, Add Method Annotation, Change Parameter Type, Add Variable Annotation]",1
+"[Add Parameter, Modify Attribute Annotation, Change Parameter Type, Change Variable Type]",1
+"[Add Class Annotation, Modify Parameter Annotation, Remove Parameter, Rename Parameter]",1
+"[Move Method, Extract Class, Rename Attribute, Change Attribute Type]",1
+"[Change Parameter Type, Remove Attribute Annotation, Remove Method Annotation, Rename Parameter]",1
+"[Modify Attribute Annotation, Remove Variable Modifier, Remove Parameter, Change Attribute Type]",1
+"[Rename Method, Change Parameter Type, Change Return Type, Change Attribute Type]",1
+"[Add Class Annotation, Rename Method, Add Attribute Modifier, Rename Class]",1
+"[Add Class Annotation, Remove Attribute Modifier, Remove Class Annotation, Add Class Modifier]",1
+"[Add Method Annotation, Change Parameter Type, Rename Attribute, Change Variable Type]",1
+"[Change Parameter Type, Split Parameter, Split Attribute, Rename Parameter]",1
+"[Remove Parameter Modifier, Add Parameter, Change Method Access Modifier, Add Method Modifier]",1
+"[Add Parameter, Change Return Type, Extract Attribute, Change Variable Type]",1
+"[Modify Attribute Annotation, Add Parameter, Change Attribute Type, Extract Method]",1
+"[Add Parameter, Rename Attribute, Inline Variable, Extract And Move Method]",1
+"[Rename Method, Add Parameter, Rename Variable, Change Return Type]",1
+"[Add Class Annotation, Move And Rename Method, Add Parameter, Remove Variable Modifier]",1
+"[Add Variable Modifier, Remove Attribute Annotation, Add Attribute Modifier, Add Parameter Modifier]",1
+"[Rename Method, Add Parameter Annotation, Parameterize Variable, Change Variable Type]",1
+"[Add Parameter, Change Method Access Modifier, Rename Class, Rename Parameter]",1
+"[Modify Parameter Annotation, Add Parameter, Remove Parameter, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Modifier, Rename Class, Add Parameter Modifier]",1
+"[Add Parameter, Add Attribute Annotation, Rename Attribute, Rename Parameter]",1
+"[Add Parameter, Remove Attribute Annotation, Add Attribute Annotation, Encapsulate Attribute]",1
+"[Add Parameter, Remove Attribute Annotation, Remove Variable Modifier, Add Parameter Modifier]",1
+"[Change Parameter Type, Remove Attribute Annotation, Encapsulate Attribute, Change Attribute Type]",1
+"[Add Class Annotation, Rename Method, Modify Attribute Annotation, Remove Class Annotation]",1
+"[Move And Rename Method, Add Parameter, Move Method, Extract Class]",1
+"[Add Parameter, Change Method Access Modifier, Move Method, Add Method Modifier]",1
+"[Parameterize Attribute, Add Parameter, Remove Parameter, Replace Variable With Attribute]",1
+"[Add Parameter, Remove Variable Modifier, Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter, Modify Attribute Annotation, Rename Attribute, Change Attribute Type]",1
+"[Add Parameter, Replace Attribute With Variable, Replace Variable With Attribute, Add Attribute Annotation]",1
+"[Add Variable Modifier, Change Return Type, Remove Parameter, Extract Method]",1
+"[Rename Variable, Remove Variable Modifier, Remove Parameter, Rename Attribute]",1
+"[Merge Attribute, Rename Variable, Merge Parameter, Change Variable Type]",1
+"[Add Method Annotation, Rename Method, Change Method Access Modifier, Rename Variable]",1
+"[Add Class Annotation, Change Parameter Type, Add Parameter, Change Attribute Type]",1
+"[Add Class Annotation, Change Return Type, Replace Attribute With Variable, Modify Class Annotation]",1
+"[Add Class Annotation, Change Method Access Modifier, Change Return Type, Add Thrown Exception Type]",1
+"[Modify Attribute Annotation, Rename Variable, Move Method, Change Variable Type]",1
+"[Add Parameter, Move Attribute, Remove Parameter, Extract Variable]",1
+"[Rename Method, Modify Method Annotation, Add Attribute Annotation, Remove Attribute Modifier]",1
+"[Add Class Annotation, Modify Method Annotation, Add Attribute Annotation, Remove Class Annotation]",1
+"[Remove Parameter Modifier, Add Parameter, Inline Method, Remove Variable Modifier]",1
+"[Localize Parameter, Remove Parameter Modifier, Remove Parameter, Add Thrown Exception Type]",1
+"[Rename Method, Add Method Annotation, Change Variable Type, Extract Variable]",1
+"[Change Parameter Type, Rename Variable, Rename Class, Change Variable Type]",1
+"[Extract Class, Move Attribute, Add Attribute Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Change Return Type, Remove Variable Modifier, Remove Class Annotation]",1
+"[Change Method Access Modifier, Remove Attribute Annotation, Add Parameter Modifier, Add Attribute Annotation]",1
+"[Change Attribute Access Modifier, Encapsulate Attribute, Extract Variable, Extract And Move Method]",1
+"[Add Class Annotation, Rename Class, Remove Method Annotation, Remove Class Annotation]",1
+"[Change Parameter Type, Change Return Type, Remove Parameter, Change Variable Type]",1
+"[Rename Method, Change Parameter Type, Rename Attribute, Change Variable Type]",1
+"[Change Parameter Type, Add Attribute Modifier, Change Variable Type, Change Attribute Type]",1
+"[Change Method Access Modifier, Move Method, Add Method Modifier, Modify Class Annotation]",1
+"[Add Parameter, Remove Attribute Annotation, Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter, Modify Attribute Annotation, Rename Class, Change Variable Type]",1
+"[Add Parameter Annotation, Add Attribute Modifier, Add Parameter Modifier, Add Attribute Annotation]",1
+"[Rename Method, Add Method Annotation, Add Parameter Modifier, Remove Parameter]",1
+"[Add Variable Modifier, Change Parameter Type, Change Variable Type, Change Attribute Type]",1
+"[Pull Up Method, Change Return Type, Extract Superclass, Change Variable Type]",1
+"[Add Method Annotation, Add Parameter Annotation, Add Parameter Modifier, Parameterize Variable]",1
+"[Modify Method Annotation, Add Parameter, Rename Class, Change Attribute Type]",1
+"[Change Parameter Type, Remove Method Annotation, Split Attribute, Rename Parameter]",1
+combination,number
+"[Add Method Annotation, Add Variable Modifier, Add Parameter, Add Parameter Modifier, Parameterize Variable]",2
+"[Remove Parameter Modifier, Remove Class Modifier, Change Method Access Modifier, Remove Method Modifier, Remove Attribute Modifier]",2
+"[Add Parameter Annotation, Add Variable Modifier, Remove Attribute Annotation, Add Parameter Modifier, Add Attribute Annotation]",2
+"[Add Class Annotation, Change Method Access Modifier, Remove Method Annotation, Change Class Access Modifier, Remove Class Annotation]",2
+"[Change Parameter Type, Add Parameter, Change Return Type, Change Variable Type, Change Attribute Type]",2
+"[Change Parameter Type, Change Return Type, Change Variable Type, Extract Variable, Change Attribute Type]",2
+"[Change Parameter Type, Change Return Type, Rename Class, Change Variable Type, Change Attribute Type]",2
+"[Reorder Parameter, Add Parameter, Modify Attribute Annotation, Remove Variable Modifier, Encapsulate Attribute]",1
+"[Rename Method, Add Variable Modifier, Change Return Type, Add Parameter Modifier, Extract Method]",1
+"[Add Class Annotation, Inline Method, Remove Variable Modifier, Remove Parameter, Extract Method]",1
+"[Rename Method, Rename Variable, Rename Attribute, Extract Method, Rename Parameter]",1
+"[Add Method Annotation, Modify Attribute Annotation, Move Class, Extract Variable, Change Attribute Type]",1
+"[Rename Variable, Remove Variable Modifier, Change Variable Type, Inline Variable, Add Thrown Exception Type]",1
+"[Add Parameter, Move Method, Extract Class, Move Class, Change Class Access Modifier]",1
+"[Modify Parameter Annotation, Modify Method Annotation, Move Package, Move Class, Rename Parameter]",1
+"[Rename Method, Rename Variable, Change Method Access Modifier, Rename Attribute, Extract Variable]",1
+"[Add Parameter, Remove Parameter, Remove Method Annotation, Change Variable Type, Inline Variable]",1
+"[Rename Method, Add Parameter, Rename Variable, Remove Variable Modifier, Remove Method Annotation]",1
+"[Rename Method, Inline Method, Rename Variable, Extract Method, Rename Parameter]",1
+"[Add Class Annotation, Add Method Annotation, Add Parameter Annotation, Modify Class Annotation, Remove Class Annotation]",1
+"[Add Parameter, Add Attribute Annotation, Extract Variable, Remove Attribute Modifier, Rename Parameter]",1
+"[Add Parameter, Change Parameter Type, Add Parameter Modifier, Inline Variable, Rename Parameter]",1
+"[Rename Method, Add Parameter, Change Method Access Modifier, Remove Variable Modifier, Extract Method]",1
+"[Add Variable Modifier, Modify Attribute Annotation, Change Method Access Modifier, Add Attribute Annotation, Extract Variable]",1
+"[Rename Method, Add Parameter, Add Attribute Modifier, Add Parameter Modifier, Rename Parameter]",1
+"[Rename Method, Add Parameter, Change Parameter Type, Remove Variable Modifier, Rename Parameter]",1
+"[Add Parameter, Rename Variable, Remove Variable Modifier, Change Variable Type, Extract And Move Method]",1
+"[Add Variable Modifier, Add Parameter, Rename Variable, Rename Class, Extract And Move Method]",1
+"[Change Parameter Type, Rename Attribute, Extract Variable, Change Attribute Type, Rename Parameter]",1
+"[Rename Variable, Add Attribute Modifier, Add Parameter Modifier, Remove Class Annotation, Extract And Move Method]",1
+"[Change Parameter Type, Merge Variable, Rename Attribute, Change Attribute Type, Rename Parameter]",1
+"[Change Parameter Type, Add Parameter, Change Variable Type, Extract Variable, Extract And Move Method]",1
+"[Rename Method, Add Variable Modifier, Rename Variable, Change Method Access Modifier, Extract Method]",1
+"[Rename Method, Change Parameter Type, Modify Attribute Annotation, Change Return Type, Change Attribute Type]",1
+"[Move Source Folder, Move Attribute, Add Attribute Annotation, Rename Attribute, Remove Attribute Modifier]",1
+"[Add Class Annotation, Remove Class Modifier, Rename Variable, Remove Attribute Modifier, Rename Parameter]",1
+"[Change Parameter Type, Rename Variable, Remove Parameter, Change Variable Type, Extract Method]",1
+"[Add Class Annotation, Add Parameter, Rename Variable, Remove Parameter, Rename Parameter]",1
+"[Move Source Folder, Add Attribute Modifier, Move Class, Remove Class Annotation, Change Attribute Type]",1
+"[Add Method Annotation, Change Method Access Modifier, Move Method, Remove Method Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Parameter, Change Method Access Modifier, Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Rename Method, Change Parameter Type, Remove Parameter, Rename Attribute, Rename Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation, Add Attribute Annotation, Remove Attribute Modifier, Remove Class Annotation]",1
+"[Rename Method, Add Variable Modifier, Add Parameter, Change Parameter Type, Rename Parameter]",1
+"[Modify Attribute Annotation, Remove Attribute Annotation, Remove Parameter, Rename Attribute, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter, Remove Variable Modifier, Remove Method Annotation, Extract Variable]",1
+"[Add Class Annotation, Add Method Annotation, Change Parameter Type, Rename Class, Add Thrown Exception Type]",1
+"[Add Class Annotation, Add Parameter, Change Return Type, Parameterize Variable, Modify Class Annotation]",1
+"[Rename Variable, Change Return Type, Remove Variable Modifier, Change Variable Type, Add Thrown Exception Type]",1
+"[Add Class Annotation, Rename Method, Add Method Annotation, Remove Method Annotation, Rename Attribute]",1
+"[Add Variable Modifier, Add Parameter, Rename Variable, Remove Method Annotation, Extract Variable]",1
+"[Move Package, Rename Package, Rename Class, Move Class, Move And Rename Class]",1
+"[Add Class Annotation, Add Parameter, Remove Attribute Annotation, Change Return Type, Add Thrown Exception Type]",1
+"[Rename Method, Add Method Annotation, Add Variable Modifier, Remove Attribute Annotation, Replace Attribute With Variable]",1
+"[Change Parameter Type, Add Parameter, Remove Parameter, Rename Attribute, Rename Parameter]",1
+"[Rename Method, Rename Variable, Change Method Access Modifier, Add Parameter Modifier, Add Attribute Annotation]",1
+"[Add Method Annotation, Rename Method, Add Parameter, Remove Parameter, Modify Class Annotation]",1
+"[Rename Method, Modify Method Annotation, Modify Attribute Annotation, Rename Attribute, Modify Class Annotation]",1
+"[Modify Method Annotation, Add Variable Modifier, Add Parameter, Inline Method, Remove Method Annotation]",1
+"[Add Class Annotation, Change Return Type, Change Variable Type, Remove Attribute Modifier, Remove Class Annotation]",1
+"[Localize Parameter, Remove Parameter Modifier, Add Parameter, Remove Class Annotation, Inline Variable]",1
+"[Rename Method, Rename Variable, Rename Attribute, Extract Variable, Rename Parameter]",1
+"[Remove Parameter Annotation, Remove Attribute Annotation, Remove Parameter, Encapsulate Attribute, Modify Class Annotation]",1
+"[Remove Variable Modifier, Remove Parameter, Parameterize Variable, Extract Variable, Extract Method]",1
+"[Rename Variable, Remove Parameter, Rename Attribute, Change Variable Type, Rename Parameter]",1
+"[Add Class Annotation, Add Parameter, Rename Variable, Parameterize Variable, Split Parameter]",1
+"[Change Parameter Type, Modify Attribute Annotation, Remove Variable Modifier, Change Variable Type, Change Attribute Type]",1
+"[Modify Parameter Annotation, Modify Method Annotation, Rename Variable, Rename Attribute, Rename Parameter]",1
+"[Change Parameter Type, Rename Class, Change Variable Type, Change Attribute Type, Inline Variable]",1
+"[Move Method, Remove Variable Modifier, Remove Parameter, Parameterize Variable, Rename Parameter]",1
+"[Rename Method, Move Package, Add Attribute Modifier, Remove Attribute Annotation, Move Class]",1
+"[Change Parameter Type, Change Return Type, Add Parameter Modifier, Change Variable Type, Rename Parameter]",1
+"[Add Parameter, Inline Method, Rename Variable, Remove Parameter, Change Variable Type]",1
+"[Rename Method, Modify Attribute Annotation, Add Parameter, Remove Parameter, Modify Class Annotation]",1
+"[Add Parameter, Rename Variable, Remove Variable Modifier, Change Variable Type, Extract Method]",1
+"[Add Parameter, Remove Variable Modifier, Encapsulate Attribute, Remove Attribute Modifier, Extract Variable]",1
+"[Add Parameter, Rename Variable, Change Return Type, Change Variable Type, Extract And Move Method]",1
+"[Remove Parameter, Encapsulate Attribute, Rename Attribute, Extract Variable, Change Attribute Type]",1
+"[Rename Method, Add Parameter Modifier, Remove Parameter, Extract Variable, Remove Class Annotation]",1
+"[Rename Method, Modify Attribute Annotation, Rename Variable, Rename Attribute, Rename Parameter]",1
+"[Add Class Annotation, Rename Variable, Remove Variable Modifier, Remove Parameter, Remove Class Annotation]",1
+"[Add Parameter, Remove Attribute Annotation, Add Attribute Modifier, Remove Method Annotation, Encapsulate Attribute]",1
+"[Change Parameter Type, Change Method Access Modifier, Modify Class Annotation, Rename Parameter, Add Class Modifier]",1
+"[Add Parameter, Remove Variable Modifier, Encapsulate Attribute, Extract Variable, Extract Method]",1
+"[Add Class Annotation, Change Attribute Access Modifier, Add Attribute Modifier, Remove Attribute Annotation, Remove Class Annotation]",1
+"[Change Return Type, Rename Class, Move Class, Change Variable Type, Remove Class Annotation]",1
+"[Rename Method, Add Parameter, Change Return Type, Add Parameter Modifier, Add Attribute Annotation]",1
+"[Change Attribute Access Modifier, Change Return Type, Rename Attribute, Extract Method, Rename Parameter]",1
+"[Rename Method, Change Parameter Type, Add Parameter, Change Attribute Type, Rename Parameter]",1
+"[Add Parameter, Rename Variable, Encapsulate Attribute, Remove Attribute Modifier, Change Variable Type]",1
+"[Change Parameter Type, Move Class, Extract Superclass, Extract Variable, Change Variable Type]",1
+"[Change Parameter Type, Add Parameter, Remove Method Annotation, Encapsulate Attribute, Change Attribute Type]",1
+"[Rename Method, Add Variable Modifier, Rename Variable, Add Attribute Modifier, Add Attribute Annotation]",1
+"[Add Parameter, Change Method Access Modifier, Move Method, Move Attribute, Remove Parameter]",1
+"[Add Parameter, Rename Class, Change Variable Type, Change Attribute Type, Extract Method]",1
+"[Change Parameter Type, Change Method Access Modifier, Change Return Type, Change Variable Type, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter, Remove Variable Modifier, Extract Method, Rename Parameter]",1
+"[Add Class Annotation, Modify Method Annotation, Add Parameter, Change Class Access Modifier, Change Attribute Type]",1
+"[Add Parameter, Change Parameter Type, Add Parameter Modifier, Remove Parameter, Modify Class Annotation]",1
+"[Change Parameter Type, Remove Attribute Annotation, Change Return Type, Change Variable Type, Change Attribute Type]",1
+"[Localize Parameter, Remove Parameter Modifier, Add Parameter Modifier, Parameterize Variable, Extract Method]",1
+"[Add Class Annotation, Move And Inline Method, Inline Method, Add Attribute Annotation, Remove Attribute Modifier]",1
+"[Add Variable Modifier, Add Parameter, Move Class, Modify Class Annotation, Change Attribute Type]",1
+"[Rename Method, Add Method Annotation, Add Parameter, Remove Variable Modifier, Remove Method Annotation]",1
+"[Add Method Annotation, Add Parameter, Encapsulate Attribute, Remove Attribute Modifier, Remove Class Annotation]",1
+"[Rename Method, Change Method Access Modifier, Remove Method Annotation, Inline Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier, Move Method, Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter Annotation, Add Attribute Modifier, Add Parameter Modifier, Remove Parameter, Add Attribute Annotation]",1
+"[Rename Method, Add Parameter, Add Parameter Modifier, Remove Parameter, Modify Class Annotation]",1
+"[Remove Parameter Modifier, Change Parameter Type, Change Method Access Modifier, Change Return Type, Change Variable Type]",1
+"[Modify Method Annotation, Move Method, Extract Class, Move Attribute, Remove Parameter]",1
+"[Rename Method, Localize Parameter, Add Parameter, Change Method Access Modifier, Remove Parameter]",1
+"[Add Method Annotation, Add Parameter, Modify Attribute Annotation, Rename Variable, Remove Method Annotation]",1
+"[Change Parameter Type, Change Return Type, Remove Parameter, Change Variable Type, Change Attribute Type]",1
+"[Add Parameter, Remove Attribute Annotation, Remove Parameter, Encapsulate Attribute, Rename Attribute]",1
+"[Add Parameter, Change Parameter Type, Change Return Type, Rename Attribute, Change Attribute Type]",1
+"[Add Variable Modifier, Rename Variable, Add Attribute Modifier, Remove Attribute Annotation, Change Return Type]",1
+"[Add Method Annotation, Modify Attribute Annotation, Move Source Folder, Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter, Extract Method, Inline Variable, Rename Parameter]",1
+"[Add Parameter, Change Parameter Type, Change Return Type, Remove Parameter, Change Variable Type]",1
+"[Extract Subclass, Change Attribute Access Modifier, Add Attribute Modifier, Push Down Attribute, Move Attribute]",1
+"[Change Parameter Type, Remove Attribute Annotation, Change Return Type, Remove Parameter, Change Attribute Type]",1
+"[Split Package, Move Method, Add Parameter Modifier, Move Class, Merge Package]",1
+"[Reorder Parameter, Add Parameter, Change Method Access Modifier, Encapsulate Attribute, Extract Variable]",1
+"[Change Parameter Type, Add Parameter, Encapsulate Attribute, Change Attribute Type, Extract Method]",1
+"[Rename Variable, Remove Parameter, Extract Variable, Extract Method, Rename Parameter]",1
+"[Add Parameter Annotation, Remove Parameter Modifier, Rename Class, Extract Variable, Change Attribute Type]",1
+"[Add Class Annotation, Remove Parameter, Replace Variable With Attribute, Remove Attribute Modifier, Change Attribute Type]",1
+"[Add Class Annotation, Add Method Annotation, Add Parameter Annotation, Add Attribute Annotation, Encapsulate Attribute]",1
+"[Change Parameter Type, Rename Variable, Change Return Type, Change Variable Type, Change Attribute Type]",1
+"[Add Parameter, Change Parameter Type, Rename Variable, Change Variable Type, Inline Variable]",1
+"[Rename Method, Split Parameter, Split Variable, Split Attribute, Rename Parameter]",1
+"[Rename Class, Add Parameter Modifier, Move Class, Change Attribute Type, Rename Parameter]",1
+"[Rename Method, Modify Method Annotation, Change Return Type, Rename Class, Rename Attribute]",1
+"[Add Class Annotation, Add Parameter, Rename Class, Remove Parameter, Change Variable Type]",1
+"[Rename Method, Add Method Annotation, Add Parameter, Rename Variable, Extract Variable]",1
+"[Rename Method, Reorder Parameter, Add Parameter, Parameterize Variable, Extract Variable]",1
+"[Rename Method, Add Class Annotation, Modify Method Annotation, Add Parameter, Rename Class]",1
+"[Add Variable Modifier, Change Attribute Access Modifier, Add Attribute Modifier, Add Parameter Modifier, Move Class]",1
+"[Add Method Annotation, Remove Parameter Annotation, Remove Variable Modifier, Remove Parameter, Rename Parameter]",1
+"[Rename Method, Change Method Access Modifier, Rename Class, Encapsulate Attribute, Rename Attribute]",1
+"[Rename Method, Add Parameter, Add Attribute Annotation, Extract Variable, Extract Method]",1
+"[Remove Variable Modifier, Remove Method Annotation, Change Variable Type, Extract Method, Extract And Move Method]",1
+"[Add Parameter, Modify Attribute Annotation, Remove Attribute Annotation, Add Parameter Modifier, Modify Class Annotation]",1
+combination,number
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Rename Method, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Localize Parameter, Add Parameter]",3
+"[Extract Variable, Change Variable Type]",2
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter, Modify Class Annotation]",4
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Rename Method, Add Parameter Modifier]",2
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Remove Method Annotation]",2
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Parameter, Change Variable Type]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Type, Extract Method]",2
+"[Rename Method, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Rename Method, Rename Variable]",2
+"[Add Parameter, Split Parameter]",1
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Extract Method]",3
+"[Rename Method, Add Attribute Modifier]",1
+"[Add Class Annotation, Add Parameter]",6
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Rename Attribute, Change Attribute Type]",3
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Class Annotation, Rename Method]",2
+"[Rename Method, Parameterize Attribute]",1
+"[Add Variable Modifier, Extract Method]",3
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Modify Method Annotation, Add Parameter]",6
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Extract Method, Rename Parameter]",2
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Encapsulate Attribute]",33
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Change Method Access Modifier]",3
+"[Add Parameter, Rename Variable]",7
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Add Variable Modifier, Add Parameter]",2
+"[Move Method, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier]",2
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Add Method Annotation, Move Method]",2
+"[Reorder Parameter, Add Parameter]",4
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Add Parameter, Extract Variable]",12
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Rename Attribute, Rename Parameter]",1
+"[Rename Method, Extract Method]",3
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Class Annotation, Change Variable Type]",2
+"[Change Variable Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter]",9
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Add Variable Modifier, Rename Variable]",2
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Rename Method, Extract Variable]",2
+"[Rename Variable, Remove Variable Modifier]",4
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Parameter, Remove Variable Modifier]",18
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Rename Variable, Inline Variable]",1
+"[Rename Method, Add Parameter]",9
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Add Parameter, Extract Method]",9
+"[Move Class, Extract Method]",1
+"[Add Parameter, Rename Parameter]",5
+"[Change Parameter Type, Change Variable Type]",2
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Parameter, Inline Variable]",2
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Method, Remove Variable Modifier]",2
+"[Rename Attribute, Split Attribute]",1
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Parameterize Variable]",2
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Extract Variable, Extract Method]",6
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Change Method Access Modifier, Change Return Type]",2
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Move Package, Move Class]",2
+"[Add Parameter, Add Attribute Annotation]",3
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1
+combination,number
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Rename Method, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Localize Parameter, Add Parameter]",3
+"[Extract Variable, Change Variable Type]",2
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter, Modify Class Annotation]",4
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Rename Method, Add Parameter Modifier]",2
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Remove Method Annotation]",2
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Parameter, Change Variable Type]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Type, Extract Method]",2
+"[Rename Method, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Rename Method, Rename Variable]",2
+"[Add Parameter, Split Parameter]",1
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Extract Method]",3
+"[Rename Method, Add Attribute Modifier]",1
+"[Add Class Annotation, Add Parameter]",6
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Rename Attribute, Change Attribute Type]",3
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Class Annotation, Rename Method]",2
+"[Rename Method, Parameterize Attribute]",1
+"[Add Variable Modifier, Extract Method]",3
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Modify Method Annotation, Add Parameter]",6
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Extract Method, Rename Parameter]",2
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Encapsulate Attribute]",33
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Change Method Access Modifier]",3
+"[Add Parameter, Rename Variable]",7
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Add Variable Modifier, Add Parameter]",2
+"[Move Method, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier]",2
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Add Method Annotation, Move Method]",2
+"[Reorder Parameter, Add Parameter]",4
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Add Parameter, Extract Variable]",12
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Rename Attribute, Rename Parameter]",1
+"[Rename Method, Extract Method]",3
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Class Annotation, Change Variable Type]",2
+"[Change Variable Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter]",9
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Add Variable Modifier, Rename Variable]",2
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Rename Method, Extract Variable]",2
+"[Rename Variable, Remove Variable Modifier]",4
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Parameter, Remove Variable Modifier]",18
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Rename Variable, Inline Variable]",1
+"[Rename Method, Add Parameter]",9
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Add Parameter, Extract Method]",9
+"[Move Class, Extract Method]",1
+"[Add Parameter, Rename Parameter]",5
+"[Change Parameter Type, Change Variable Type]",2
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Parameter, Inline Variable]",2
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Method, Remove Variable Modifier]",2
+"[Rename Attribute, Split Attribute]",1
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Parameterize Variable]",2
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Extract Variable, Extract Method]",6
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Change Method Access Modifier, Change Return Type]",2
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Move Package, Move Class]",2
+"[Add Parameter, Add Attribute Annotation]",3
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1
+combination,number
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Rename Method, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Localize Parameter, Add Parameter]",3
+"[Extract Variable, Change Variable Type]",2
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter, Modify Class Annotation]",4
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Rename Method, Add Parameter Modifier]",2
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Remove Method Annotation]",2
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Parameter, Change Variable Type]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Type, Extract Method]",2
+"[Rename Method, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Rename Method, Rename Variable]",2
+"[Add Parameter, Split Parameter]",1
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Extract Method]",3
+"[Rename Method, Add Attribute Modifier]",1
+"[Add Class Annotation, Add Parameter]",6
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Rename Attribute, Change Attribute Type]",3
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Class Annotation, Rename Method]",2
+"[Rename Method, Parameterize Attribute]",1
+"[Add Variable Modifier, Extract Method]",3
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Modify Method Annotation, Add Parameter]",6
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Extract Method, Rename Parameter]",2
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Encapsulate Attribute]",33
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Change Method Access Modifier]",3
+"[Add Parameter, Rename Variable]",7
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Add Variable Modifier, Add Parameter]",2
+"[Move Method, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier]",2
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Add Method Annotation, Move Method]",2
+"[Reorder Parameter, Add Parameter]",4
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Add Parameter, Extract Variable]",12
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Rename Attribute, Rename Parameter]",1
+"[Rename Method, Extract Method]",3
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Class Annotation, Change Variable Type]",2
+"[Change Variable Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter]",9
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Add Variable Modifier, Rename Variable]",2
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Rename Method, Extract Variable]",2
+"[Rename Variable, Remove Variable Modifier]",4
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Parameter, Remove Variable Modifier]",18
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Rename Variable, Inline Variable]",1
+"[Rename Method, Add Parameter]",9
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Add Parameter, Extract Method]",9
+"[Move Class, Extract Method]",1
+"[Add Parameter, Rename Parameter]",5
+"[Change Parameter Type, Change Variable Type]",2
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Parameter, Inline Variable]",2
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Method, Remove Variable Modifier]",2
+"[Rename Attribute, Split Attribute]",1
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Parameterize Variable]",2
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Extract Variable, Extract Method]",6
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Change Method Access Modifier, Change Return Type]",2
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Move Package, Move Class]",2
+"[Add Parameter, Add Attribute Annotation]",3
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1
+combination,number
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Rename Method, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Localize Parameter, Add Parameter]",3
+"[Extract Variable, Change Variable Type]",2
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter, Modify Class Annotation]",4
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Rename Method, Add Parameter Modifier]",2
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Remove Method Annotation]",2
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Parameter, Change Variable Type]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Type, Extract Method]",2
+"[Rename Method, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Rename Method, Rename Variable]",2
+"[Add Parameter, Split Parameter]",1
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Extract Method]",3
+"[Rename Method, Add Attribute Modifier]",1
+"[Add Class Annotation, Add Parameter]",6
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Rename Attribute, Change Attribute Type]",3
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Class Annotation, Rename Method]",2
+"[Rename Method, Parameterize Attribute]",1
+"[Add Variable Modifier, Extract Method]",3
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Modify Method Annotation, Add Parameter]",6
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Extract Method, Rename Parameter]",2
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Encapsulate Attribute]",33
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Change Method Access Modifier]",3
+"[Add Parameter, Rename Variable]",7
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Add Variable Modifier, Add Parameter]",2
+"[Move Method, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier]",2
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Add Method Annotation, Move Method]",2
+"[Reorder Parameter, Add Parameter]",4
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Add Parameter, Extract Variable]",12
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Rename Attribute, Rename Parameter]",1
+"[Rename Method, Extract Method]",3
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Class Annotation, Change Variable Type]",2
+"[Change Variable Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter]",9
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Add Variable Modifier, Rename Variable]",2
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Rename Method, Extract Variable]",2
+"[Rename Variable, Remove Variable Modifier]",4
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Parameter, Remove Variable Modifier]",18
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Rename Variable, Inline Variable]",1
+"[Rename Method, Add Parameter]",9
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Add Parameter, Extract Method]",9
+"[Move Class, Extract Method]",1
+"[Add Parameter, Rename Parameter]",5
+"[Change Parameter Type, Change Variable Type]",2
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Parameter, Inline Variable]",2
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Method, Remove Variable Modifier]",2
+"[Rename Attribute, Split Attribute]",1
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Parameterize Variable]",2
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Extract Variable, Extract Method]",6
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Change Method Access Modifier, Change Return Type]",2
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Move Package, Move Class]",2
+"[Add Parameter, Add Attribute Annotation]",3
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1
+combination,number
+"[Modify Class Annotation, Remove Class Annotation]",1
+"[Modify Method Annotation, Rename Class]",1
+"[Modify Method Annotation, Change Parameter Type]",2
+"[Rename Method, Rename Parameter]",1
+"[Add Class Annotation, Add Attribute Annotation]",3
+"[Modify Attribute Annotation, Change Attribute Type]",7
+"[Localize Parameter, Add Parameter]",3
+"[Extract Variable, Change Variable Type]",2
+"[Encapsulate Attribute, Extract Variable]",1
+"[Add Parameter Annotation, Remove Method Annotation]",1
+"[Modify Method Annotation, Remove Parameter]",4
+"[Add Parameter, Replace Attribute With Variable]",1
+"[Add Parameter, Change Attribute Access Modifier]",1
+"[Remove Class Modifier, Add Method Modifier]",1
+"[Move Source Folder, Modify Class Annotation]",1
+"[Add Parameter, Modify Class Annotation]",4
+"[Add Parameter Modifier, Parameterize Variable]",1
+"[Add Method Annotation, Remove Method Annotation]",2
+"[Rename Class, Extract Method]",1
+"[Add Variable Modifier, Change Return Type]",1
+"[Rename Method, Add Parameter Modifier]",2
+"[Extract Class, Move Attribute]",1
+"[Parameterize Variable, Encapsulate Attribute]",1
+"[Add Class Annotation, Add Method Annotation]",1
+"[Add Method Annotation, Extract Method]",1
+"[Add Parameter, Change Attribute Type]",1
+"[Add Parameter Modifier, Remove Class Annotation]",1
+"[Extract Method, Inline Variable]",1
+"[Change Attribute Access Modifier, Add Attribute Modifier]",1
+"[Remove Attribute Modifier, Inline Variable]",1
+"[Remove Attribute Annotation, Encapsulate Attribute]",1
+"[Add Method Annotation, Add Parameter Annotation]",1
+"[Add Variable Modifier, Remove Method Annotation]",1
+"[Rename Variable, Remove Method Annotation]",2
+"[Rename Variable, Modify Class Annotation]",1
+"[Remove Variable Modifier, Change Variable Type]",1
+"[Add Class Annotation, Remove Method Annotation]",1
+"[Rename Variable, Change Variable Type]",7
+"[Add Parameter, Inline Method]",1
+"[Add Parameter, Remove Method Annotation]",1
+"[Merge Attribute, Merge Parameter]",1
+"[Add Class Annotation, Modify Attribute Annotation]",3
+"[Modify Parameter Annotation, Modify Method Annotation]",1
+"[Modify Attribute Annotation, Modify Class Annotation]",3
+"[Add Variable Modifier, Change Variable Type]",1
+"[Add Parameter, Change Variable Type]",7
+"[Change Parameter Type, Change Attribute Type]",6
+"[Add Attribute Modifier, Rename Attribute]",1
+"[Merge Variable, Extract Variable]",1
+"[Add Parameter, Rename Attribute]",1
+"[Remove Parameter, Change Variable Type]",1
+"[Add Method Annotation, Remove Parameter Modifier]",1
+"[Rename Variable, Rename Parameter]",4
+"[Add Parameter, Inline Variable]",1
+"[Change Parameter Type, Remove Parameter]",1
+"[Remove Method Annotation, Change Attribute Type]",1
+"[Modify Method Annotation, Rename Attribute]",2
+"[Change Parameter Type, Remove Thrown Exception Type]",1
+"[Add Variable Modifier, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Attribute Annotation]",1
+"[Change Attribute Type, Extract Method]",2
+"[Rename Method, Change Attribute Type]",1
+"[Add Method Annotation, Add Parameter]",2
+"[Rename Method, Remove Class Annotation]",1
+"[Modify Method Annotation, Remove Method Annotation]",1
+"[Change Method Access Modifier, Add Method Modifier]",1
+"[Add Class Annotation, Remove Class Annotation]",33
+"[Split Package, Move Class]",1
+"[Add Parameter Annotation, Remove Parameter]",1
+"[Rename Method, Rename Variable]",2
+"[Add Parameter, Split Parameter]",1
+"[Parameterize Attribute, Extract Method]",2
+"[Add Class Annotation, Extract Method]",3
+"[Rename Method, Add Attribute Modifier]",1
+"[Add Class Annotation, Add Parameter]",6
+"[Move Method, Remove Parameter]",1
+"[Add Parameter, Remove Attribute Modifier]",1
+"[Rename Attribute, Change Attribute Type]",3
+"[Remove Attribute Annotation, Add Parameter Modifier]",1
+"[Add Class Annotation, Rename Method]",2
+"[Rename Method, Parameterize Attribute]",1
+"[Add Variable Modifier, Extract Method]",3
+"[Remove Parameter Annotation, Remove Method Annotation]",1
+"[Rename Variable, Extract Method]",2
+"[Rename Method, Remove Parameter]",2
+"[Remove Variable Modifier, Extract Variable]",2
+"[Add Thrown Exception Type, Modify Class Annotation]",1
+"[Add Parameter, Change Return Type]",1
+"[Remove Variable Modifier, Encapsulate Attribute]",1
+"[Modify Method Annotation, Add Parameter]",6
+"[Add Method Annotation, Change Class Access Modifier]",1
+"[Extract Method, Rename Parameter]",2
+"[Move Class, Remove Method Annotation]",1
+"[Rename Variable, Add Attribute Annotation]",1
+"[Rename Class, Add Class Modifier]",1
+"[Add Method Annotation, Add Thrown Exception Type]",1
+"[Add Parameter, Move Class]",2
+"[Add Method Annotation, Rename Method]",2
+"[Remove Parameter, Add Attribute Annotation]",1
+"[Add Parameter, Encapsulate Attribute]",33
+"[Move Class, Change Variable Type]",1
+"[Rename Method, Modify Class Annotation]",1
+"[Change Parameter Type, Rename Parameter]",1
+"[Remove Thrown Exception Type, Rename Parameter]",1
+"[Change Attribute Access Modifier, Move Attribute]",1
+"[Remove Attribute Annotation, Extract Variable]",1
+"[Rename Method, Rename Class]",1
+"[Change Attribute Access Modifier, Change Method Access Modifier]",1
+"[Remove Parameter, Add Thrown Exception Type]",1
+"[Add Parameter, Add Parameter Modifier]",4
+"[Add Parameter, Change Method Access Modifier]",3
+"[Add Parameter, Rename Variable]",7
+"[Add Parameter, Extract And Move Method]",1
+"[Add Parameter Annotation, Parameterize Variable]",1
+"[Add Variable Modifier, Add Parameter]",2
+"[Move Method, Remove Method Annotation]",1
+"[Add Parameter, Add Attribute Modifier]",2
+"[Move Source Folder, Move Class]",1
+"[Change Attribute Access Modifier, Change Attribute Type]",2
+"[Modify Attribute Annotation, Add Parameter]",5
+"[Change Attribute Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter Annotation]",1
+"[Add Method Annotation, Move Method]",2
+"[Reorder Parameter, Add Parameter]",4
+"[Change Method Access Modifier, Add Attribute Modifier]",2
+"[Rename Variable, Extract And Move Method]",1
+"[Change Return Type, Change Variable Type]",1
+"[Rename Variable, Remove Class Annotation]",1
+"[Modify Method Annotation, Modify Class Annotation]",1
+"[Add Parameter Annotation, Remove Variable Annotation]",1
+"[Add Parameter, Remove Attribute Annotation]",2
+"[Add Variable Modifier, Extract Variable]",2
+"[Add Parameter, Extract Variable]",12
+"[Remove Parameter, Extract Variable]",1
+"[Add Parameter, Remove Class Annotation]",1
+"[Rename Variable, Extract Variable]",2
+"[Add Class Annotation, Modify Class Annotation]",5
+"[Rename Attribute, Rename Parameter]",1
+"[Rename Method, Extract Method]",3
+"[Add Variable Modifier, Remove Attribute Annotation]",1
+"[Move Class, Change Class Access Modifier]",1
+"[Add Parameter, Change Parameter Type]",1
+"[Add Parameter Modifier, Add Attribute Annotation]",3
+"[Add Class Annotation, Change Variable Type]",2
+"[Change Variable Type, Modify Class Annotation]",1
+"[Add Parameter, Remove Parameter]",9
+"[Encapsulate Attribute, Remove Attribute Modifier]",2
+"[Rename Class, Rename Parameter]",1
+"[Change Method Access Modifier, Remove Attribute Annotation]",1
+"[Encapsulate Attribute, Extract Method]",1
+"[Add Variable Modifier, Remove Parameter]",1
+"[Change Method Access Modifier, Remove Thrown Exception Type]",1
+"[Move Method, Extract Class]",1
+"[Modify Attribute Annotation, Rename Variable]",1
+"[Merge Parameter, Extract Variable]",1
+"[Remove Variable Modifier, Replace Variable With Attribute]",1
+"[Add Variable Modifier, Rename Variable]",2
+"[Encapsulate Attribute, Inline Variable]",1
+"[Add Method Annotation, Change Variable Type]",1
+"[Remove Variable Modifier, Remove Parameter]",1
+"[Move Class, Add Attribute Annotation]",1
+"[Rename Method, Extract Variable]",2
+"[Rename Variable, Remove Variable Modifier]",4
+"[Add Variable Modifier, Remove Variable Modifier]",3
+"[Add Parameter, Remove Variable Modifier]",18
+"[Remove Attribute Annotation, Add Attribute Annotation]",4
+"[Move Class, Merge Package]",1
+"[Change Method Access Modifier, Rename Parameter]",1
+"[Change Thrown Exception Type, Remove Thrown Exception Type]",1
+"[Add Class Annotation, Change Return Type]",1
+"[Remove Method Annotation, Remove Class Annotation]",1
+"[Add Parameter Modifier, Encapsulate Attribute]",1
+"[Rename Attribute, Extract Method]",1
+"[Encapsulate Attribute, Rename Parameter]",1
+"[Modify Attribute Annotation, Add Parameter Modifier]",2
+"[Add Class Annotation, Change Attribute Type]",1
+"[Remove Parameter Modifier, Rename Parameter]",1
+"[Add Method Annotation, Add Variable Modifier]",3
+"[Rename Variable, Inline Variable]",1
+"[Rename Method, Add Parameter]",9
+"[Remove Attribute Annotation, Remove Parameter]",1
+"[Add Method Annotation, Change Attribute Type]",1
+"[Add Parameter, Extract Method]",9
+"[Move Class, Extract Method]",1
+"[Add Parameter, Rename Parameter]",5
+"[Change Parameter Type, Change Variable Type]",2
+"[Rename Class, Modify Class Annotation]",1
+"[Add Parameter, Move Method]",1
+"[Remove Attribute Modifier, Extract Method]",1
+"[Remove Method Annotation, Extract Method]",1
+"[Add Method Annotation, Replace Variable With Attribute]",1
+"[Remove Parameter Modifier, Extract Method]",1
+"[Add Method Annotation, Modify Class Annotation]",1
+"[Add Class Annotation, Remove Attribute Modifier]",5
+"[Modify Method Annotation, Extract Method]",1
+"[Remove Parameter, Inline Variable]",2
+"[Remove Class Modifier, Extract Variable]",1
+"[Add Parameter, Remove Variable Annotation]",1
+"[Modify Method Annotation, Move Source Folder]",1
+"[Rename Method, Remove Variable Modifier]",2
+"[Rename Attribute, Split Attribute]",1
+"[Extract Method, Extract And Move Method]",2
+"[Add Parameter, Add Method Modifier]",2
+"[Add Method Annotation, Modify Method Annotation]",1
+"[Add Class Annotation, Encapsulate Attribute]",3
+"[Add Parameter, Parameterize Variable]",2
+"[Add Method Annotation, Change Return Type]",1
+"[Move Attribute, Remove Parameter]",1
+"[Add Class Annotation, Move Class]",1
+"[Rename Method, Inline Method]",1
+"[Extract Variable, Extract Method]",6
+"[Rename Method, Remove Method Annotation]",1
+"[Change Variable Type, Extract Method]",1
+"[Change Method Access Modifier, Change Return Type]",2
+"[Rename Class, Change Attribute Type]",1
+"[Add Parameter Annotation, Add Attribute Annotation]",1
+"[Remove Attribute Annotation, Extract Method]",1
+"[Add Method Annotation, Encapsulate Attribute]",1
+"[Rename Package, Move Class]",1
+"[Add Variable Modifier, Add Parameter Modifier]",4
+"[Add Attribute Modifier, Add Parameter Modifier]",1
+"[Remove Parameter, Encapsulate Attribute]",1
+"[Extract Variable, Rename Parameter]",1
+"[Add Method Annotation, Change Method Access Modifier]",2
+"[Add Class Annotation, Move Attribute]",1
+"[Remove Method Annotation, Add Thrown Exception Type]",1
+"[Add Attribute Modifier, Encapsulate Attribute]",1
+"[Move Package, Move Class]",2
+"[Add Parameter, Add Attribute Annotation]",3
+"[Rename Variable, Add Parameter Modifier]",1
+"[Add Parameter, Extract Attribute]",1

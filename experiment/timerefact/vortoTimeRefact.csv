@@ -1,0 +1,389 @@
+time,refact,number
+2015,Add Method Annotation,9
+2015,Move And Rename Method,33
+2015,Move Source Folder,6
+2015,Move Attribute,37
+2015,Move Class,45
+2015,Move And Rename Class,7
+2015,Extract Variable,2
+2015,Rename Method,234
+2015,Reorder Parameter,2
+2015,Change Method Access Modifier,7
+2015,Rename Package,4
+2015,Add Parameter Modifier,1
+2015,Remove Method Annotation,1
+2015,Encapsulate Attribute,5
+2015,Remove Method Modifier,1
+2015,Change Variable Type,81
+2015,Add Thrown Exception Type,6
+2015,Add Parameter,23
+2015,Rename Variable,67
+2015,Inline Method,3
+2015,Add Attribute Modifier,1
+2015,Rename Attribute,114
+2015,Extract Superclass,6
+2015,Change Type Declaration Kind,1
+2015,Change Class Access Modifier,1
+2015,Move Package,6
+2015,Change Parameter Type,90
+2015,Rename Class,32
+2015,Extract Attribute,9
+2015,Remove Variable Modifier,1
+2015,Remove Parameter,11
+2015,Change Thrown Exception Type,2
+2015,Add Class Annotation,2
+2015,Change Attribute Access Modifier,8
+2015,Parameterize Variable,1
+2015,Modify Class Annotation,6
+2015,Add Class Modifier,1
+2015,Split Class,2
+2015,Move And Inline Method,9
+2015,Move Method,57
+2015,Add Method Modifier,2
+2015,Extract Class,9
+2015,Extract Method,19
+2015,Pull Up Method,17
+2015,Change Return Type,97
+2015,Merge Class,5
+2015,Remove Thrown Exception Type,2
+2015,Extract Interface,3
+2015,Change Attribute Type,34
+2015,Rename Parameter,56
+2016,Add Method Annotation,38
+2016,Localize Parameter,2
+2016,Move And Rename Method,13
+2016,Remove Parameter Modifier,7
+2016,Move Source Folder,22
+2016,Pull Up Attribute,30
+2016,Move Attribute,11
+2016,Move Class,211
+2016,Move And Rename Class,13
+2016,Replace Attribute With Variable,2
+2016,Extract Variable,6
+2016,Inline Variable,6
+2016,Rename Method,39
+2016,Modify Parameter Annotation,38
+2016,Split Package,1
+2016,Change Method Access Modifier,11
+2016,Remove Parameter Annotation,24
+2016,Extract And Move Method,12
+2016,Rename Package,7
+2016,Add Parameter Modifier,4
+2016,Push Down Attribute,1
+2016,Remove Method Annotation,39
+2016,Encapsulate Attribute,8
+2016,Remove Method Modifier,4
+2016,Change Variable Type,40
+2016,Add Thrown Exception Type,4
+2016,Push Down Method,3
+2016,Add Variable Modifier,6
+2016,Add Parameter,78
+2016,Inline Method,22
+2016,Rename Variable,15
+2016,Merge Package,3
+2016,Add Attribute Annotation,3
+2016,Extract Superclass,9
+2016,Rename Attribute,15
+2016,Change Type Declaration Kind,1
+2016,Modify Method Annotation,29
+2016,Add Parameter Annotation,36
+2016,Move Package,10
+2016,Change Parameter Type,80
+2016,Remove Class Modifier,3
+2016,Rename Class,10
+2016,Extract Attribute,11
+2016,Remove Variable Modifier,5
+2016,Remove Parameter,13
+2016,Change Thrown Exception Type,3
+2016,Add Class Annotation,15
+2016,Change Attribute Access Modifier,39
+2016,Parameterize Variable,1
+2016,Remove Attribute Modifier,1
+2016,Modify Class Annotation,19
+2016,Add Class Modifier,2
+2016,Modify Attribute Annotation,2
+2016,Move Method,30
+2016,Add Method Modifier,2
+2016,Extract Class,6
+2016,Extract Method,19
+2016,Pull Up Method,10
+2016,Change Return Type,73
+2016,Merge Class,1
+2016,Remove Thrown Exception Type,10
+2016,Extract Interface,1
+2016,Change Attribute Type,22
+2016,Remove Class Annotation,12
+2016,Rename Parameter,44
+2017,Add Method Annotation,32
+2017,Localize Parameter,2
+2017,Move And Rename Method,8
+2017,Remove Parameter Modifier,4
+2017,Move Source Folder,15
+2017,Pull Up Attribute,3
+2017,Move Attribute,28
+2017,Move Class,192
+2017,Move And Rename Class,25
+2017,Extract Variable,19
+2017,Inline Variable,3
+2017,Rename Method,20
+2017,Modify Parameter Annotation,1
+2017,Split Package,6
+2017,Change Method Access Modifier,19
+2017,Remove Parameter Annotation,1
+2017,Rename Package,6
+2017,Add Parameter Modifier,1
+2017,Push Down Attribute,3
+2017,Remove Method Annotation,12
+2017,Encapsulate Attribute,6
+2017,Change Variable Type,125
+2017,Add Thrown Exception Type,8
+2017,Parameterize Attribute,2
+2017,Add Parameter,58
+2017,Rename Variable,17
+2017,Inline Method,3
+2017,Merge Package,6
+2017,Add Attribute Annotation,3
+2017,Rename Attribute,11
+2017,Extract Superclass,2
+2017,Change Class Access Modifier,1
+2017,Modify Method Annotation,12
+2017,Move Package,12
+2017,Add Parameter Annotation,2
+2017,Change Parameter Type,102
+2017,Remove Class Modifier,3
+2017,Rename Class,22
+2017,Extract Attribute,4
+2017,Remove Variable Modifier,1
+2017,Remove Parameter,25
+2017,Change Thrown Exception Type,6
+2017,Add Class Annotation,8
+2017,Change Attribute Access Modifier,54
+2017,Parameterize Variable,2
+2017,Remove Attribute Modifier,4
+2017,Modify Class Annotation,4
+2017,Add Class Modifier,5
+2017,Modify Attribute Annotation,2
+2017,Move Method,74
+2017,Extract Class,4
+2017,Extract Method,17
+2017,Pull Up Method,9
+2017,Change Return Type,146
+2017,Merge Class,3
+2017,Remove Thrown Exception Type,3
+2017,Extract Interface,1
+2017,Change Attribute Type,42
+2017,Remove Class Annotation,9
+2017,Remove Variable Annotation,1
+2017,Rename Parameter,24
+2018,Add Method Annotation,73
+2018,Merge Attribute,2
+2018,Localize Parameter,2
+2018,Move And Rename Method,8
+2018,Remove Parameter Modifier,2
+2018,Move Source Folder,40
+2018,Pull Up Attribute,14
+2018,Move Attribute,37
+2018,Move Class,166
+2018,Replace Attribute With Variable,2
+2018,Move And Rename Class,15
+2018,Extract Variable,41
+2018,Inline Variable,6
+2018,Split Attribute,2
+2018,Rename Method,61
+2018,Modify Parameter Annotation,27
+2018,Split Package,3
+2018,Reorder Parameter,1
+2018,Change Method Access Modifier,15
+2018,Remove Parameter Annotation,5
+2018,Replace Variable With Attribute,3
+2018,Extract And Move Method,2
+2018,Rename Package,3
+2018,Add Parameter Modifier,1
+2018,Push Down Attribute,4
+2018,Remove Method Annotation,44
+2018,Merge Parameter,3
+2018,Move And Rename Attribute,2
+2018,Remove Method Modifier,3
+2018,Encapsulate Attribute,9
+2018,Change Variable Type,186
+2018,Replace Loop With Pipeline,1
+2018,Add Thrown Exception Type,29
+2018,Push Down Method,1
+2018,Add Variable Modifier,3
+2018,Add Parameter,73
+2018,Inline Method,6
+2018,Rename Variable,59
+2018,Merge Package,2
+2018,Add Attribute Annotation,16
+2018,Rename Attribute,10
+2018,Extract Superclass,5
+2018,Change Type Declaration Kind,1
+2018,Modify Method Annotation,135
+2018,Add Parameter Annotation,33
+2018,Move Package,13
+2018,Change Parameter Type,66
+2018,Rename Class,11
+2018,Remove Variable Modifier,8
+2018,Remove Parameter,95
+2018,Change Thrown Exception Type,2
+2018,Add Class Annotation,40
+2018,Replace Pipeline With Loop,2
+2018,Change Attribute Access Modifier,43
+2018,Parameterize Variable,15
+2018,Remove Attribute Modifier,3
+2018,Modify Class Annotation,37
+2018,Move And Inline Method,2
+2018,Modify Attribute Annotation,7
+2018,Move Method,86
+2018,Add Method Modifier,2
+2018,Extract Class,17
+2018,Extract Method,23
+2018,Pull Up Method,12
+2018,Change Return Type,85
+2018,Remove Attribute Annotation,4
+2018,Remove Thrown Exception Type,3
+2018,Merge Class,2
+2018,Remove Class Annotation,18
+2018,Change Attribute Type,19
+2018,Rename Parameter,47
+2019,Add Method Annotation,70
+2019,Localize Parameter,5
+2019,Move And Rename Method,12
+2019,Remove Parameter Modifier,1
+2019,Extract Subclass,1
+2019,Pull Up Attribute,9
+2019,Move Attribute,14
+2019,Move Class,16
+2019,Move And Rename Class,9
+2019,Replace Attribute With Variable,2
+2019,Extract Variable,31
+2019,Inline Variable,13
+2019,Rename Method,52
+2019,Modify Parameter Annotation,3
+2019,Reorder Parameter,2
+2019,Change Method Access Modifier,27
+2019,Remove Parameter Annotation,6
+2019,Replace Variable With Attribute,2
+2019,Extract And Move Method,1
+2019,Rename Package,1
+2019,Push Down Attribute,5
+2019,Add Parameter Modifier,3
+2019,Remove Method Annotation,73
+2019,Merge Parameter,1
+2019,Encapsulate Attribute,11
+2019,Change Variable Type,78
+2019,Split Variable,1
+2019,Replace Loop With Pipeline,1
+2019,Add Thrown Exception Type,8
+2019,Push Down Method,7
+2019,Add Variable Modifier,4
+2019,Add Parameter,66
+2019,Rename Variable,30
+2019,Inline Method,5
+2019,Add Attribute Modifier,19
+2019,Add Attribute Annotation,4
+2019,Rename Attribute,25
+2019,Extract Superclass,3
+2019,Change Class Access Modifier,1
+2019,Modify Method Annotation,77
+2019,Move Package,4
+2019,Add Parameter Annotation,3
+2019,Change Parameter Type,29
+2019,Extract Attribute,27
+2019,Remove Variable Modifier,4
+2019,Rename Class,10
+2019,Remove Parameter,77
+2019,Merge Variable,1
+2019,Change Thrown Exception Type,10
+2019,Add Class Annotation,46
+2019,Replace Pipeline With Loop,2
+2019,Change Attribute Access Modifier,19
+2019,Parameterize Variable,9
+2019,Remove Attribute Modifier,4
+2019,Modify Class Annotation,17
+2019,Add Class Modifier,1
+2019,Split Class,1
+2019,Modify Attribute Annotation,5
+2019,Move Method,49
+2019,Add Method Modifier,8
+2019,Extract Class,3
+2019,Extract Method,47
+2019,Pull Up Method,17
+2019,Change Return Type,52
+2019,Remove Attribute Annotation,5
+2019,Remove Thrown Exception Type,2
+2019,Change Attribute Type,26
+2019,Remove Variable Annotation,1
+2019,Remove Class Annotation,13
+2019,Rename Parameter,31
+2020,Add Method Annotation,140
+2020,Merge Attribute,4
+2020,Localize Parameter,5
+2020,Move And Rename Method,6
+2020,Remove Parameter Modifier,1
+2020,Pull Up Attribute,16
+2020,Move Attribute,28
+2020,Move Class,16
+2020,Replace Attribute With Variable,1
+2020,Move And Rename Class,3
+2020,Extract Variable,28
+2020,Inline Variable,6
+2020,Split Attribute,7
+2020,Rename Method,99
+2020,Modify Parameter Annotation,7
+2020,Remove Parameter Annotation,17
+2020,Change Method Access Modifier,29
+2020,Replace Variable With Attribute,2
+2020,Extract And Move Method,10
+2020,Push Down Attribute,3
+2020,Remove Method Annotation,86
+2020,Merge Parameter,1
+2020,Encapsulate Attribute,14
+2020,Remove Method Modifier,4
+2020,Change Variable Type,34
+2020,Replace Loop With Pipeline,1
+2020,Add Thrown Exception Type,78
+2020,Parameterize Attribute,15
+2020,Add Variable Modifier,1
+2020,Add Parameter,93
+2020,Rename Variable,63
+2020,Inline Method,4
+2020,Add Attribute Modifier,23
+2020,Add Attribute Annotation,36
+2020,Rename Attribute,87
+2020,Extract Superclass,2
+2020,Change Class Access Modifier,5
+2020,Modify Method Annotation,125
+2020,Add Parameter Annotation,15
+2020,Move Package,1
+2020,Change Parameter Type,86
+2020,Remove Class Modifier,5
+2020,Extract Attribute,4
+2020,Rename Class,26
+2020,Remove Variable Modifier,3
+2020,Remove Parameter,37
+2020,Merge Variable,1
+2020,Change Thrown Exception Type,7
+2020,Add Class Annotation,72
+2020,Replace Pipeline With Loop,2
+2020,Change Attribute Access Modifier,47
+2020,Parameterize Variable,3
+2020,Remove Attribute Modifier,1
+2020,Modify Class Annotation,30
+2020,Move And Inline Method,4
+2020,Modify Attribute Annotation,8
+2020,Move Method,78
+2020,Add Method Modifier,29
+2020,Extract Class,6
+2020,Split Parameter,5
+2020,Extract Method,63
+2020,Pull Up Method,10
+2020,Remove Attribute Annotation,33
+2020,Change Return Type,63
+2020,Remove Thrown Exception Type,21
+2020,Merge Class,1
+2020,Extract Interface,3
+2020,Change Attribute Type,68
+2020,Remove Class Annotation,57
+2020,Rename Parameter,101
+2023,Modify Method Annotation,1
