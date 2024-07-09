@@ -3,7 +3,7 @@ Exploring Software Refactoring Practices: Diversity,Evolution and External Attri
 This repository hosts the replication package for our research paper, titled "Exploring Software Refactoring Practices: Diversity,Evolution and External Attributes". It includes the necessary code and datasets to replicate our datasets and further explore the dataset we have compiled and analyzed.
 
 ## Directory Overview
- 1. The content in refactoring Information.zip includes all the commit information collected in this experiment, including refactoring in commit, commit message, commit date, etc.
+ 1. The content in refactoringInformation.zip includes all the commit information collected in this experiment, including refactoring in commit, commit message, commit date, etc.
 
 
  2. The experiment folder contains all experimental data related to the results of this paper.
