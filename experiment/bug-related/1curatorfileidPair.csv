@@ -1,0 +1,14 @@
+buginducingRefactory,number
+Modify Method Annotation,1
+Change Parameter Type,2
+Change Variable Type,4
+Extract Variable,2
+Extract Method,1
+Add Parameter,4
+Change Method Access Modifier,1
+Change Return Type,7
+Remove Thrown Exception Type,2
+Remove Attribute Modifier,2
+Extract Interface,1
+Change Attribute Type,3
+Remove Class Annotation,1

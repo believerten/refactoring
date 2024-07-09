@@ -1,0 +1,87 @@
+name,number
+Add Method Annotation,710
+Merge Attribute,3
+Localize Parameter,34
+Move And Rename Method,114
+Extract Subclass,5
+Remove Parameter Modifier,26
+Collapse Hierarchy,7
+Move Source Folder,111
+Pull Up Attribute,118
+Move Attribute,183
+Replace Attribute With Variable,24
+Move And Rename Class,36
+Move Class,714
+Extract Variable,308
+Inline Variable,143
+Split Attribute,3
+Rename Method,426
+Modify Parameter Annotation,2
+Split Package,2
+Change Method Access Modifier,424
+Remove Parameter Annotation,34
+Replace Variable With Attribute,48
+Extract And Move Method,176
+Replace Anonymous With Lambda,7
+Rename Package,14
+Add Parameter Modifier,69
+Push Down Attribute,11
+Remove Method Annotation,471
+Merge Parameter,10
+Encapsulate Attribute,69
+Remove Method Modifier,258
+Move And Rename Attribute,4
+Change Variable Type,1146
+Add Thrown Exception Type,297
+Parameterize Attribute,16
+Push Down Method,41
+Add Variable Modifier,33
+Add Parameter,578
+Rename Variable,401
+Inline Method,66
+Add Attribute Modifier,239
+Merge Package,3
+Add Attribute Annotation,78
+Extract Superclass,44
+Rename Attribute,178
+Change Class Access Modifier,63
+Change Type Declaration Kind,4
+Modify Method Annotation,11
+Add Parameter Annotation,32
+Move Package,21
+Change Parameter Type,644
+Remove Class Modifier,25
+Remove Variable Modifier,19
+Rename Class,120
+Extract Attribute,66
+Remove Parameter,256
+Change Thrown Exception Type,54
+Merge Variable,6
+Add Class Annotation,199
+Replace Pipeline With Loop,3
+Change Attribute Access Modifier,253
+Parameterize Variable,85
+Remove Attribute Modifier,107
+Modify Class Annotation,117
+Add Variable Annotation,40
+Add Class Modifier,38
+Split Class,2
+Move And Inline Method,30
+Modify Attribute Annotation,47
+Move Method,366
+Add Method Modifier,170
+Extract Class,36
+Split Parameter,6
+Extract Method,686
+Replace Attribute,3
+Pull Up Method,360
+Inline Attribute,2
+Change Return Type,506
+Remove Attribute Annotation,33
+Merge Class,7
+Remove Thrown Exception Type,94
+Extract Interface,19
+Change Attribute Type,425
+Remove Class Annotation,119
+Remove Variable Annotation,15
+Rename Parameter,319

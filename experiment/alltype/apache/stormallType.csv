@@ -1,0 +1,85 @@
+name,number
+Change Parameter Type,7265
+Add Method Annotation,6169
+Change Variable Type,5984
+Rename Variable,5801
+Change Attribute Type,3549
+Change Return Type,2104
+Add Attribute Annotation,1428
+Rename Attribute,1282
+Move Class,1265
+Add Parameter,1132
+Modify Class Annotation,996
+Rename Parameter,924
+Rename Method,734
+Move Method,727
+Add Attribute Modifier,680
+Change Method Access Modifier,656
+Remove Attribute Annotation,628
+Add Parameter Annotation,617
+Remove Thrown Exception Type,539
+Extract Method,524
+Add Class Annotation,488
+Change Attribute Access Modifier,437
+Extract Variable,433
+Remove Parameter,422
+Add Thrown Exception Type,390
+Move Attribute,364
+Remove Method Annotation,306
+Add Variable Annotation,285
+Remove Attribute Modifier,250
+Pull Up Method,226
+Move And Rename Method,193
+Rename Class,172
+Push Down Attribute,143
+Remove Method Modifier,130
+Inline Variable,128
+Change Class Access Modifier,123
+Remove Class Annotation,118
+Push Down Method,111
+Parameterize Variable,110
+Modify Method Annotation,103
+Add Method Modifier,102
+Encapsulate Attribute,101
+Add Variable Modifier,100
+Extract And Move Method,91
+Pull Up Attribute,89
+Inline Method,89
+Replace Variable With Attribute,81
+Replace Anonymous With Lambda,81
+Remove Class Modifier,80
+Extract Class,80
+Move And Rename Class,71
+Add Parameter Modifier,70
+Move Source Folder,68
+Add Class Modifier,62
+Extract Attribute,54
+Move And Rename Attribute,52
+Change Thrown Exception Type,50
+Remove Variable Modifier,43
+Localize Parameter,42
+Move And Inline Method,42
+Extract Superclass,34
+Parameterize Attribute,30
+Extract Interface,25
+Replace Attribute With Variable,23
+Modify Attribute Annotation,21
+Remove Parameter Modifier,16
+Reorder Parameter,16
+Merge Parameter,14
+Split Attribute,13
+Move Package,12
+Merge Variable,12
+Merge Attribute,11
+Remove Parameter Annotation,10
+Change Type Declaration Kind,10
+Split Parameter,10
+Merge Class,9
+Extract Subclass,8
+Rename Package,8
+Replace Loop With Pipeline,3
+Replace Pipeline With Loop,2
+Remove Variable Annotation,2
+Split Variable,1
+Split Class,1
+Replace Attribute,1

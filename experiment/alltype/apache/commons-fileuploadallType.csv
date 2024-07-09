@@ -1,0 +1,64 @@
+name,number
+Add Method Annotation,243
+Merge Attribute,1
+Localize Parameter,4
+Move And Rename Method,4
+Move Source Folder,6
+Pull Up Attribute,25
+Move Attribute,11
+Move Class,166
+Move And Rename Class,6
+Replace Attribute With Variable,4
+Extract Variable,19
+Inline Variable,18
+Rename Method,60
+Reorder Parameter,2
+Change Method Access Modifier,47
+Replace Variable With Attribute,1
+Extract And Move Method,10
+Rename Package,4
+Add Parameter Modifier,350
+Remove Method Annotation,38
+Remove Method Modifier,5
+Encapsulate Attribute,3
+Change Variable Type,593
+Add Thrown Exception Type,41
+Push Down Method,1
+Add Variable Modifier,380
+Add Parameter,42
+Rename Variable,25
+Inline Method,3
+Add Attribute Modifier,33
+Add Attribute Annotation,1
+Rename Attribute,35
+Extract Superclass,10
+Change Class Access Modifier,18
+Modify Method Annotation,13
+Change Parameter Type,58
+Remove Class Modifier,12
+Rename Class,33
+Extract Attribute,19
+Remove Variable Modifier,3
+Change Thrown Exception Type,12
+Remove Parameter,19
+Add Class Annotation,8
+Change Attribute Access Modifier,33
+Parameterize Variable,1
+Remove Attribute Modifier,5
+Modify Class Annotation,2
+Add Class Modifier,20
+Add Variable Annotation,3
+Move And Inline Method,2
+Move Method,29
+Add Method Modifier,8
+Extract Class,1
+Extract Method,25
+Pull Up Method,66
+Change Return Type,108
+Remove Thrown Exception Type,37
+Merge Class,1
+Extract Interface,2
+Change Attribute Type,29
+Remove Variable Annotation,4
+Remove Class Annotation,2
+Rename Parameter,105

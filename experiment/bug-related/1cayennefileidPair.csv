@@ -1,0 +1,27 @@
+buginducingRefactory,number
+Add Method Annotation,1
+Move And Rename Method,1
+Change Parameter Type,11
+Remove Parameter,3
+Extract Variable,17
+Inline Variable,6
+Rename Method,7
+Change Attribute Access Modifier,10
+Change Method Access Modifier,13
+Remove Attribute Modifier,6
+Extract And Move Method,2
+Add Parameter Modifier,10
+Encapsulate Attribute,1
+Change Variable Type,4
+Extract Method,6
+Pull Up Method,6
+Add Variable Modifier,1
+Add Parameter,2
+Rename Variable,1
+Change Return Type,21
+Add Attribute Modifier,1
+Remove Thrown Exception Type,1
+Rename Attribute,3
+Extract Superclass,2
+Change Attribute Type,22
+Rename Parameter,5

@@ -1,0 +1,89 @@
+name,number
+Add Method Annotation,1970
+Merge Attribute,27
+Localize Parameter,35
+Move And Rename Method,198
+Extract Subclass,15
+Remove Parameter Modifier,98
+Collapse Hierarchy,1
+Move Source Folder,53
+Pull Up Attribute,264
+Move Attribute,616
+Move Class,1532
+Replace Attribute With Variable,37
+Move And Rename Class,150
+Extract Variable,245
+Inline Variable,205
+Split Attribute,13
+Rename Method,827
+Modify Parameter Annotation,58
+Reorder Parameter,11
+Split Package,14
+Change Method Access Modifier,566
+Remove Parameter Annotation,587
+Replace Variable With Attribute,91
+Extract And Move Method,269
+Replace Anonymous With Lambda,25
+Rename Package,24
+Push Down Attribute,53
+Add Parameter Modifier,81
+Remove Method Annotation,628
+Merge Parameter,26
+Encapsulate Attribute,75
+Remove Method Modifier,167
+Move And Rename Attribute,60
+Change Variable Type,1175
+Split Variable,2
+Replace Loop With Pipeline,7
+Add Thrown Exception Type,444
+Parameterize Attribute,4
+Push Down Method,121
+Add Variable Modifier,235
+Add Parameter,1361
+Rename Variable,755
+Inline Method,53
+Add Attribute Modifier,625
+Merge Package,10
+Add Attribute Annotation,195
+Extract Superclass,72
+Rename Attribute,1020
+Change Type Declaration Kind,46
+Change Class Access Modifier,9
+Modify Method Annotation,1379
+Add Parameter Annotation,768
+Move Package,59
+Change Parameter Type,1238
+Remove Class Modifier,13
+Rename Class,328
+Remove Variable Modifier,179
+Extract Attribute,318
+Remove Parameter,466
+Change Thrown Exception Type,786
+Merge Variable,6
+Add Class Annotation,744
+Replace Pipeline With Loop,2
+Change Attribute Access Modifier,656
+Parameterize Variable,77
+Remove Attribute Modifier,600
+Modify Class Annotation,756
+Add Class Modifier,20
+Add Variable Annotation,23
+Split Class,4
+Move And Inline Method,41
+Modify Attribute Annotation,43
+Move Method,972
+Add Method Modifier,95
+Extract Class,125
+Split Parameter,11
+Extract Method,373
+Replace Attribute,9
+Pull Up Method,394
+Change Return Type,872
+Remove Attribute Annotation,144
+Remove Thrown Exception Type,429
+Merge Class,18
+Extract Interface,31
+Change Attribute Type,534
+Remove Class Annotation,439
+Remove Variable Annotation,35
+Rename Parameter,980

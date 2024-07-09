@@ -1,0 +1,85 @@
+name,number
+Merge Attribute,19
+Add Method Annotation,495
+Localize Parameter,41
+Move And Rename Method,65
+Extract Subclass,5
+Remove Parameter Modifier,3
+Move Source Folder,32
+Pull Up Attribute,72
+Move Attribute,238
+Replace Attribute With Variable,23
+Move Class,289
+Move And Rename Class,42
+Extract Variable,392
+Inline Variable,92
+Split Attribute,11
+Rename Method,597
+Reorder Parameter,11
+Split Package,2
+Change Method Access Modifier,343
+Remove Parameter Annotation,18
+Replace Variable With Attribute,44
+Extract And Move Method,654
+Replace Anonymous With Lambda,1
+Rename Package,10
+Add Parameter Modifier,32
+Push Down Attribute,24
+Merge Parameter,46
+Remove Method Annotation,243
+Encapsulate Attribute,149
+Remove Method Modifier,73
+Move And Rename Attribute,17
+Change Variable Type,1486
+Split Variable,2
+Add Thrown Exception Type,401
+Parameterize Attribute,23
+Push Down Method,29
+Add Variable Modifier,40
+Add Parameter,1415
+Rename Variable,491
+Inline Method,33
+Add Attribute Modifier,408
+Merge Package,2
+Add Attribute Annotation,413
+Rename Attribute,562
+Extract Superclass,30
+Change Class Access Modifier,51
+Change Type Declaration Kind,19
+Modify Method Annotation,481
+Add Parameter Annotation,42
+Move Package,5
+Change Parameter Type,1028
+Remove Class Modifier,14
+Remove Variable Modifier,12
+Rename Class,172
+Extract Attribute,16
+Remove Parameter,549
+Change Thrown Exception Type,125
+Merge Variable,15
+Add Class Annotation,311
+Change Attribute Access Modifier,413
+Parameterize Variable,70
+Remove Attribute Modifier,162
+Modify Class Annotation,4
+Add Class Modifier,113
+Add Variable Annotation,15
+Split Class,1
+Move And Inline Method,37
+Modify Attribute Annotation,9
+Move Method,338
+Add Method Modifier,183
+Extract Class,48
+Split Parameter,18
+Extract Method,502
+Pull Up Method,75
+Inline Attribute,3
+Change Return Type,602
+Remove Attribute Annotation,15
+Remove Thrown Exception Type,113
+Merge Class,1
+Extract Interface,14
+Change Attribute Type,821
+Remove Class Annotation,53
+Remove Variable Annotation,3
+Rename Parameter,520

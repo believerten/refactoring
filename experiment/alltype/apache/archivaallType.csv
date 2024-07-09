@@ -1,0 +1,88 @@
+name,number
+Replace Attribute,1
+Merge Class,1
+Collapse Hierarchy,2
+Merge Variable,2
+Replace Pipeline With Loop,2
+Split Class,2
+Remove Variable Annotation,3
+Replace Anonymous With Lambda,4
+Extract Subclass,5
+Split Package,5
+Merge Package,6
+Change Type Declaration Kind,6
+Split Attribute,8
+Add Variable Annotation,9
+Merge Attribute,11
+Remove Parameter Modifier,13
+Move And Rename Attribute,13
+Remove Class Modifier,13
+Push Down Attribute,14
+Replace Loop With Pipeline,14
+Split Parameter,15
+Modify Parameter Annotation,17
+Rename Package,18
+Parameterize Attribute,18
+Change Class Access Modifier,18
+Remove Variable Modifier,23
+Reorder Parameter,24
+Merge Parameter,25
+Extract Interface,28
+Add Class Modifier,33
+Move And Rename Class,36
+Replace Attribute With Variable,36
+Move Package,43
+Move And Inline Method,43
+Add Variable Modifier,46
+Localize Parameter,48
+Remove Class Annotation,49
+Remove Method Modifier,50
+Extract Superclass,52
+Modify Attribute Annotation,65
+Extract Class,67
+Replace Variable With Attribute,69
+Add Method Modifier,71
+Move Source Folder,86
+Add Parameter Modifier,87
+Parameterize Variable,88
+Inline Method,92
+Move And Rename Method,99
+Push Down Method,101
+Add Parameter Annotation,103
+Extract Attribute,108
+Inline Variable,110
+Remove Parameter Annotation,122
+Rename Class,122
+Modify Class Annotation,137
+Extract And Move Method,144
+Remove Attribute Annotation,159
+Add Attribute Modifier,168
+Encapsulate Attribute,199
+Remove Attribute Modifier,213
+Remove Method Annotation,224
+Pull Up Attribute,228
+Move Attribute,228
+Rename Attribute,261
+Add Attribute Annotation,317
+Move Method,321
+Pull Up Method,327
+Change Thrown Exception Type,378
+Change Attribute Access Modifier,383
+Modify Method Annotation,386
+Remove Thrown Exception Type,387
+Change Method Access Modifier,399
+Add Class Annotation,401
+Rename Parameter,409
+Extract Variable,460
+Remove Parameter,472
+Rename Variable,484
+Extract Method,598
+Change Attribute Type,675
+Rename Method,701
+Add Thrown Exception Type,1012
+Change Return Type,1169
+Add Parameter,1198
+Change Parameter Type,1246
+Move Class,1286
+Change Variable Type,3002
+Add Method Annotation,3529
