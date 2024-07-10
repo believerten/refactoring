@@ -16,4 +16,4 @@ This repository hosts the replication package for our research paper, titled "Ex
       - The bug-related folder contains the statistical results of bug proneness of refactoring operations.
       - The EvolutionaryVolatility folder contains all refactorings that exhibit evolutionary volatility in the project. Each table displays the code elements modified during refactoring; the two modification times for this code element,;two refactorings and the tags for the two refactorings (the tag consists of the commitId and the order of the refactoring within the commit). The column named right represents the refactoring that first modified this code element, while the column named left represents the refactoring that subsequently modified it.
       - The "bugRelatedAndVolatility" folder contains the data of bug proneness of refactoring operations that exhibit evolutionary volatility.
-3. The Src folder contains all the code scripts utilized for data collection.
+3. The src folder contains all the code scripts utilized for data collection.
